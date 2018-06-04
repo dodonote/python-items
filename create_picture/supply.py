@@ -5,6 +5,7 @@ from xlrd import open_workbook
 import datetime
 
 today = datetime.date.today().strftime("%Y-%m-%d")
+today = "2018-05-15"
 print today
 filename = '%s.xlsx' % today
 wb = open_workbook(filename)
