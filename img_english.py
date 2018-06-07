@@ -8,6 +8,10 @@ import urllib
 import datetime
 from PIL import Image, ImageFont, ImageDraw
 
+today = datetime.date.today().strftime("%Y-%m-%d")
+# print today
+filename = 'weather-%s.png' % today
+
 # 获取天气
 def getWeather():
 
@@ -27,9 +31,6 @@ def getWeather():
         temperature = weather_info.select(".weather span")[0].get_text()
         air = weather_info.select(".kongqi h5")[0].get_text()
 
-        today = datetime.date.today().strftime("%Y-%m-%d")
-        # print today
-        filename = 'weather-%s.jpg' % today
         urllib.urlretrieve(weather_img, filename)
 
         data = []
@@ -44,6 +45,46 @@ def getWeather():
 
         return data
 
+def getSentence():
+
+    f = open(u"read_day.txt")
+    line = f.readline()
+
+    i= 0
+    data = []
+
+    while line:
+
+        if not line.strip():
+            line = f.readline()
+            continue
+
+        if line.strip() == today:
+
+            i = 1
+            line = f.readline()
+            continue
+
+        if line.strip().isdigit():
+
+            i = 0
+            line = f.readline()
+            continue
+
+        if i == 0:
+
+            line = f.readline()
+            continue
+
+        print line.strip()
+        sub_arg = (line.strip())
+        data.append(sub_arg)
+
+        line = f.readline()
+
+    return data
+
+    f.close()
 
 #加载底图
 base_img = Image.open(ur'img/img_english.jpg')
@@ -67,6 +108,22 @@ print box[3]-box[1]
 region = region.resize((box[2] - box[0], box[3] - box[1]))
 base_img.paste(region, box)
 
+# 添加天气图片
+box = (100, 100, 210, 210)
+weather_img = Image.open(filename)
+print weather_img.mode
+print weather_img.size
+
+weather_img = weather_img.convert("RGBA")
+
+#分离通道
+# r,g,b,a = weather_img.split()
+
+weather_img = weather_img.resize((box[2] - box[0], box[3] - box[1]))
+
+# weather_img.show()
+base_img.paste(weather_img, box, mask=weather_img.split()[3])
+
 # 添加文字
 sign_text1 = u'版权声明：本文为博主原创，未经允许不得转载。'
 sign_text2 = u'博主地址：http://www.www.www'
@@ -87,8 +144,25 @@ data = getWeather()
 # print data
 # print data[0][0]
 sign_text3 = data[0][0]+data[0][1]+data[0][2]
+weather = data[0][4]+data[0][5]
 draw.text((width / 2 - 150, 200), sign_text3, fill='#FFFFFF', font=font)
+draw.text((width / 2 - 150, 230), weather, fill='#FFFFFF', font=font)
+
+# 添加每日一句
+sentence = getSentence()
+
+draw.text((50, 250), sentence[0], fill = '#FFFFFF', font=font)
+
+if sentence[2]:
+    aa = sentence[2]
+    aa = aa.decode('utf-8')
+    draw.text((50, 270), sentence[1], fill = '#FFFFFF', font=font)
+    draw.text((50, 290), aa, fill = '#FFFFFF', font=font)
+else:
+    aa = sentence[1]
+    aa = aa.decode('utf-8')
+    draw.text((50, 270), aa, fill = '#FFFFFF', font=font)
 
 del draw
 base_img.show() # 查看合成的图片
-# base_img.save('./img/english_day.jpg') #保存图片
+base_img.save('./img/english_day_%s.jpg' % today) #保存图片
