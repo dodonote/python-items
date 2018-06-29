@@ -4,7 +4,9 @@
 # Time : 2018/6/26 0026  10:03
 
 # 百度翻译
-from urllib import request, parse
+import urllib
+import urllib2
+import requests
 
 # 手机版百度翻译
 url = 'http://fanyi.baidu.com/basetrans'
@@ -21,9 +23,9 @@ data = {
     'to': 'zh',
     'query': 'What happened: Ofo said it has managed to lower operating cost to RMB 0.2 per day from early 2017’s RMB 1.5 per bike. In early May, CEO Dai Wei said the company is launching a program called “Victory”, which will help the company profit. According to the company’s operating officer, Ofo is using IoT big data platform to help maintain its bikes.',
 }
-data = parse.urlencode(data).encode('utf-8')
+data = urllib.urlencode(data).encode('utf-8')
 
-req = request.Request(url=url, headers=headers, data=data)
+req = urllib2.Request(url=url, headers=headers, data=data)
 
-response = request.urlopen(req)
+response = urllib2.urlopen(req)
 print(response.read().decode('utf-8'))
