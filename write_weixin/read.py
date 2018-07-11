@@ -6,7 +6,6 @@
 #    微信：zhixuez
 # ------------------------------------------------
 
-
 import requests
 import pymysql
 from bs4 import BeautifulSoup
@@ -30,6 +29,7 @@ conn = pymysql.connect(HOSTNAME, USERNAME, PASSWORD, DATABASE, charset="utf8")
 cur = conn.cursor()
 
 today = datetime.date.today().strftime("%Y-%m-%d")
+today_ymd = datetime.date.today().strftime("%Y%m%d")
 
 data_begin = '''
 <section class="_editor" style="margin: 0px; padding: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
@@ -104,10 +104,10 @@ data_end = '''
     <br style="margin: 0px; padding: 0px;"/>
 </p>
 <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; min-height: 1em; white-space: pre-wrap; font-size: 18px; font-style: italic;">
-    <em style="margin: 0px; padding: 0px;"><strong style="margin: 0px; padding: 0px;"><img class="" data-ratio="1" src="https://image.ipaiban.com/upload-ueditor-image-20180612-1528778153975015710.gif" data-type="gif" data-w="128" style="margin: 0px; padding: 0px; height: 20px; width: 20px;"/></strong></em><span style="margin: 0px; padding: 0px;"><em style="margin: 0px; padding: 0px;"><strong style="margin: 0px; padding: 0px;">翻译：上周她受到了女王的接见.</strong></em></span><br style="margin: 0px; padding: 0px;"/>
+    <em style="margin: 0px; padding: 0px;"><strong style="margin: 0px; padding: 0px;"><img class="" data-ratio="1" src="https://image.ipaiban.com/upload-ueditor-image-20180612-1528778153975015710.gif" data-type="gif" data-w="128" style="margin: 0px; padding: 0px; height: 20px; width: 20px;"/></strong></em><span style="margin: 0px; padding: 0px;"><em style="margin: 0px; padding: 0px;"><strong style="margin: 0px; padding: 0px;">翻译：{translate_sentence}.</strong></em></span><br style="margin: 0px; padding: 0px;"/>
 </p>
 <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; min-height: 1em; white-space: pre-wrap; font-size: 18px; font-style: italic;">
-    <span style="margin: 0px; padding: 0px; font-size: 16px; color: rgb(255, 41, 65);"> &nbsp; &nbsp;回复：20180609，获取翻译答案 </span>
+    <span style="margin: 0px; padding: 0px; font-size: 16px; color: rgb(255, 41, 65);"> &nbsp; &nbsp;回复：{reply_password}，获取翻译答案 </span>
 </p>
 <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; min-height: 1em; white-space: pre-wrap; font-size: 18px; font-style: italic;">
     <br style="margin: 0px; padding: 0px;"/>
@@ -141,7 +141,7 @@ data_end = '''
                     <section style="margin: 0px; padding: 10px;">
                         <section style="margin: 0px; padding: 0px; text-align: center; font-size: 14px;">
                             <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; text-align: justify;">
-                                <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">The world always makes way for the dreamer.<br style="margin: 0px; padding: 0px;"/>世界总为梦想者让路。</span>
+                                <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">{sentence_en}<br style="margin: 0px; padding: 0px;"/>{sentence_cn}</span>
                             </p>
                         </section>
                     </section>
@@ -172,12 +172,15 @@ txt_name = 'english_weixin_' + today + ".txt"
 f = open(txt_name, "a+")
 f.truncate()
 
+translate_sentence = ''
+
 # 列表
 def read_vocabulary():
 
     cur.execute("select * from english_vocabulary where `status` = 0 order by id asc limit 10")
     data = cur.fetchall()
 
+    global translate_sentence
     item = ''
     for i,info in enumerate(data):
 
@@ -197,6 +200,10 @@ def read_vocabulary():
         item = item.replace('{{3}}', info[4])
         item = item.replace('{{4}}', info[5])
         item = item.replace('{{5}}', info[6])
+
+        if not translate_sentence and info[7]:
+
+            translate_sentence = info[7]
 
         cur.execute("update english_vocabulary set `status` = 1 where `id` = %s", (info[0]))
         conn.commit()
@@ -219,7 +226,12 @@ def read_sentence():
 
             f.write('''
             <section label="Copyright © 2014 playhudong All Rights Reserved." donone="shifuMouseDownCard(&#39;shifu_c_014&#39;)" style="margin: 10px 0px 0px; padding: 16px; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; white-space: normal; border-width: 1px; border-style: dashed; border-color: rgb(183, 184, 184); border-radius: 10px; line-height: 1.4;">
-    <span style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);">二、Expression In Class 课堂用语</span><br style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);"/>''')
+            <p>
+                <strong><span style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);">九、Talking About Time 叙述时间</span></strong>
+            </p>
+            <p>
+                <strong><span style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);"><br/></span></strong>
+            </p>''')
 
         item = data_sentence.replace('{{0}}', info[2])
 
@@ -235,6 +247,48 @@ def read_sentence():
             </section>
             ''')
 
+# 每日一句
+def getSentence():
+
+    f = open(u"read_day.txt")
+    line = f.readline()
+
+    i= 0
+    data = []
+
+    while line:
+
+        if not line.strip():
+            line = f.readline()
+            continue
+
+        if line.strip() == today:
+
+            i = 1
+            line = f.readline()
+            continue
+
+        if line.strip().isdigit():
+
+            i = 0
+            line = f.readline()
+            continue
+
+        if i == 0:
+
+            line = f.readline()
+            continue
+
+        print line.strip()
+        sub_arg = (line.strip())
+        data.append(sub_arg)
+
+        line = f.readline()
+
+    return data
+
+    f.close()
+
 def main():
 
     # 开始
@@ -249,7 +303,13 @@ def main():
     # 日常英语
     read_sentence()
 
+    sentence = getSentence()
+
+    global  data_end
     # 结束
+    data_end = data_end.replace("{reply_password}", today_ymd)
+    data_end = data_end.replace("{translate_sentence}", translate_sentence)
+    data_end = data_end.replace("{sentence_en}", sentence[0]).replace("{sentence_cn}", sentence[1])
     f.write(data_end)
 
     print 'SUCESS'
