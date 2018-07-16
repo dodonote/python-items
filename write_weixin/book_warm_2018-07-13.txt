@@ -1,0 +1,721 @@
+
+<section class="color" style="margin: 0px; padding: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <img class="" data-copyright="0" data-ratio="0.75" src="https://mmbiz.qpic.cn/mmbiz_jpg/ULGBRicThgZvgFqJxOynamwnSMzoTOy1h4Ww8JpRd1UMhCq9pTjdF6CzAb2ycDkorPsaG4ASKW6Kicl2pdD3ZpYw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" data-type="gif" data-w="700" style="margin: 0px; padding: 0px; height: auto !important;"/><br style="margin: 0px; padding: 0px;"/>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<p>
+    <br/>
+</p>
+<section class="output_wrapper" style="margin: 0px; padding: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; letter-spacing: 0px; white-space: normal; color: rgb(62, 62, 62); line-height: 1.6;">
+    <section class="" style="margin: 0px; padding: 0px; font-size: inherit; line-height: inherit; display: inline-block; vertical-align: top; width: 72.5313px; border-style: solid; border-width: 1px; border-radius: 0px; border-color: rgb(178, 178, 178); color: rgb(178, 178, 178);">
+        <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="margin: 0px; padding: 0px; font-size: inherit; color: inherit; line-height: inherit;">
+            <section class="" style="margin: 0px; padding: 0px; font-size: inherit; color: inherit; line-height: inherit;">
+                <section class="" style="margin: 0px; padding: 0px; font-size: inherit; color: inherit; text-align: center; line-height: 18px;">
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-size: inherit; color: inherit; line-height: inherit;">
+                        13
+                    </p>
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-size: inherit; color: inherit; line-height: inherit;">
+                        ／
+                    </p>
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-size: inherit; color: inherit; line-height: inherit;">
+                        07
+                    </p>
+                </section>
+            </section>
+        </section>
+    </section>
+    <section class="" style="margin: 0px; padding: 0px 0px 0px 10px; font-size: inherit; color: inherit; line-height: inherit; display: inline-block; vertical-align: top;">
+        <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="margin: 0px; padding: 0px; font-size: inherit; color: inherit; line-height: inherit;">
+            <section class="" style="margin: 0px; padding: 0px; font-size: inherit; color: inherit; line-height: inherit;">
+                <section class="" style="margin: 0px; padding: 0px; color: inherit; font-size: 15px; line-height: 26px;">
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-size: inherit; color: inherit; line-height: inherit;">
+                        <span style="margin: 0px; padding: 0px; font-size: inherit; line-height: inherit; color: rgb(178, 178, 178);">1 THE PEDLAR</span>
+                    </p>
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-size: inherit; color: inherit; line-height: inherit;">
+                        <span style="margin: 0px; padding: 0px; font-size: inherit; line-height: inherit; color: rgb(178, 178, 178);">1 小 贩</span>
+                    </p>
+                </section>
+            </section>
+        </section>
+    </section>
+</section>
+<p>
+    <br/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em;">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+
+                        <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                            1 THE PEDLAR
+                        </p>
+                        <p></p>
+                    
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">1 小 贩</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    The spring of 1634 arrives， but in the prison of Lancaster Castle it stays cold．The twenty women in the prison are dirty， hungry and cold． There are no beds or chairs and so they sleep on the cold floor．There are no windows，so it is al-ways dark．The women want to get out of the prison；they want to go home．Sometimes the guards open the big，old door and put some bread and water on the floor． Then they close the door again．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">1634年的春天来了，但是在兰开斯特城堡监狱里却是寒冷依旧。关在狱中的20个女犯人又脏、又饿、又冷。牢房里既没有床也没有椅子，她们就睡在冰冷的地上。由于没有窗户，房间里总是一片黑暗。女囚们想离开监狱；她们想回家。有时候看守打开破旧的大门，把面包和水放在地上，然后又将大门牢牢地关上。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    My name is Jennet Device， and I am one of the twenty women in prison．Day after day， I sit on the cold floor and wait．I want to feel warm again； I want to see the sky again， and Pen-dle Hill， the beautiful hill near my home． But I am in the dark prison of Lancaster Castle， and I sit on the cold floor and wait．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">我叫詹妮特·迪瓦斯，是20个女囚犯中的一员。日复一日，我坐在冰冷的地上等待着。我希望再次感受到温暖，我希望重新看到蔚蓝的天空和我家附近的美丽的潘德尔山。然而，我却是在黑暗的兰开斯特城堡监狱里，坐在冰冷的地上等待着。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    One day， something happens． The guards open the big， old door．'Jennet Device！'a guard calls．'Come here at once，witch！Somebody wants to see you．'
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">有一天，发生了一件事。看守打开了破旧的大门。“詹妮特·迪瓦斯！”看守喊道。“快过来，女巫！有人要见你。”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    I get up slowly because I'm very cold and I walk across the dark room to the door． Perhaps it' s someone from Read Hall！Perhaps I'm going home！ 'Jennet Device，be quick！'the guard calls again．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">因为太冷了，我缓慢地爬起来，穿过黑暗的房间向门口走去。也许是从里德宅院来的什么人！也许我要回家了！</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    Someone is standing at the door with the guard．'Jennet，'he says quietly．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">“詹妮特·迪瓦斯，快点！”那个看守又喊道。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    I see him then： a tall man with brown hair and tired blue eyes．He is not from Read Hall．It is Mr Webster，from the church at Kild wick．My legs stop moving and suddenly I want to sit down．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">有一个人站在门边，和看守在一起。“詹妮特，”他轻轻地说了一声。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    'Come on， come on，' the guard says angrily． He begins to close the door．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">这时，我看清楚他了：他是一个长着棕色头发的高个子男人，一双蓝眼睛里带着倦意。他不是里德宅院的人，他是从基尔德威克的教堂来的韦伯斯特先生。我的两条腿停止了挪动，突然，我想坐下来。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    'Come out here for a minute， Jennet，' Mr Webster says quietly．'Sit down and eat something．'
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">“快点，快点。”看守生气地说。他开始关上大门。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    I sit down at a little table near the door．Mr Webster gives me some bread and some meat and I begin to eat hungrily．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">“出来呆会儿，詹妮特，”韦伯斯特先生平静地说。“坐下来吃点东西。”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    'Ten minutes，'the guard says．'After ten minutes，she goes in again．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">我在靠门的一张小桌旁坐了下来。韦伯斯特先生给了我一些面包和肉，我大吃起来。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    'Thank you，'Mr Webster says．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">“10分钟，”看守说，“10分钟后她就得回去。”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    'How is everyone at Read Hall？'I ask at last．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">“谢谢你，”韦伯斯特先生说。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    Mr Webster smiles．'Everyone is well． I was there yesterday．'
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">“里德宅院的人们都好吗？”我终于开口问道。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    I close my eyes for a minute．' Mr Webster， it' s not true．I'm not a witch， you know．'
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">韦伯斯特先生微笑着说：“大家都好。我昨天到那里去了。”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    'I know，Jennet，'Mr Webster says．'Last week， I brought Edmund Robinson and his father into my church， and asked them about the boy's story． Many people believed Edmund' s story，but some people didn' t．Edmund Robinson is going to London tomorrow with his father， and a judge is going to ques-tion them．'
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">我闭上眼睛，过了一小会儿，我说：“韦伯斯特先生，这不是真的。你知道，我不是女巫。”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    The guard comes back and begins to open the door．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">“我知道，詹妮特，”韦伯斯特先生说。“上个星期，我把埃德蒙·鲁滨逊和他的父亲带到我的教堂，向他们询问起了埃德蒙讲的故事。许多人相信埃德蒙的话，但是也有些人不相信。明天埃德蒙将和他的父亲一起去伦敦，在那里，法官会盘问他们的。”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    ' Time！' he says．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">那个看守回来了并打开了牢门。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    Mr Webster stands up．'God is here with you，Jennet．Never forget that．You can be happy，when God is with you．'
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">“到时间了！”他说。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    I stand up too， and take the bread from the table．' Yes， Mr Webster． God is with me； I believe that．' But happy？How can I be happy？
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">韦伯斯特先生站了起来。“上帝与你同在，詹妮特。别忘了这一点。当上帝陪伴着你时，你会快乐的。”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    I go back into the dark prison， and the guard closes the door behind me．The women run to me．'Bread！Give us bread！'they cry．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">我也站起身来，把面包从桌上拿走。“是的，韦伯斯特先生。上帝与我同在；我相信。”可是，快乐？我怎么可能快乐呢？</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    Quickly， I put the bread in my shirt．I don't want to lose it．I walk across the room and sit down on the floor． I am crying，but I feel a little better． Edmund Robinson， of Newchurch， is only ten years old． Edmund told lies about me and about many women： he saw us at a witches' meeting at a house called Hoarstones．It's not true，but many people believed him．What is he going to say in London？ The truth？ Or more lies．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">我重又回到了黑暗的牢房，看守在我身后关上了牢门。女囚犯们向我跑来：“面包！给我们面包！”她们大喊着。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    But now， in the prison of Lancaster Castle， I want to tell my story． It is a story about rich men and angry villagers；about old women and hungry children． It is a true story， and it happened to me．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">我迅速地把面包放进衬衣里。我可不愿失去它。我穿过房间坐到了地上。我在哭泣，但是我感觉稍好一点了。纽丘奇村的埃德蒙·鲁滨逊只有10岁。他说了有关我和很多妇女的谎话：他说他看到我们在一所名叫霍尔斯通斯的房子里参加女巫会议。那不是真的，可是许多人相信他的话。在伦敦他会讲些什么呢？真话？也许是更多的谎言。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">不过现在，在兰开斯特城堡监狱里，我想讲述我的故事。它是一个关于有钱人和愤怒的村民们；关于老年妇女和饥饿的儿童的故事。这是一个真实的故事，它就发生在我的身上。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    I was born in 1603． My family was always very poor， and after my father died， we were poorer． In winter， I was often ill and I was always cold and hungry． In summer， I was sometimes ill and I was often cold and hungry．We lived some miles from the village of New church， in an old house called Malkin Tower． It was dirty and cold．The rain came in through the windows and there were no doors． To the west， was the big hill called Pendle．Pendle Hill was beautiful．I loved Pendle Hill because it sat quietly all year and watched me．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);"></span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    My story begins on the eighteenth day of March in the year 1612． I was nine years old， and my life began to change on that day．My mother and my grandmother were ill and they sat on the floor，with their dogs，near the little fire．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">我出生于1603年。我的家庭一直非常贫穷。自从我的父亲去世后，我们的日子更艰难了。一年到头，我吃不饱、穿不暖，还常常生病。我们住在一所名叫马尔金塔的老房子里，离纽丘奇村有几英里远。这所房子又脏又冷，连一扇门也没有。下雨时雨水便从窗户浇进来。我家西面有一座潘德尔大山。它很美丽。我爱这座山，因为它终年宁静地坐落在那里，注视着我。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    My sister Alizon wanted to go out．'I'm going to look for bread，'she said．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">我的故事从这里讲起，那是1612年3月18日。当时我9岁。就在那一天，我的生活开始发生了变化。那天，我的妈妈和外祖母都生着病，她们围着一小堆火，和她们的几条狗一起坐在地上。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    My brother James sat near the fire，his mouth open．'Go and look for bread，'he said．'Go and look for bread．'James often said things again and again．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">我的姐姐艾丽森想到外面去。“我去找点面包，”她说。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    Alizon ran out of the house and I followed her．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">我哥哥詹姆斯张着嘴靠火坐着。“去找面包，”他说，“去找面包。”詹姆斯经常不断地重复他的话。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    'Go and look for bread！'James called．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">艾丽森跑出房子，我在后面跟着她。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    Alizon began to go east， up the hill and past the big trees be-hind Malkin Tower．Alizon walked fast． She was eighteen years old and she was tall with long，dirty brown hair and a white，hungry face． It was cold， but there was no rain ．Alizon wore a coat and some shoes， but I had no coat and no shoes．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">“去找面包！”詹姆斯喊道。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    ' Please wait a minute！' I called to my sister．' I want to come with you．'
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">艾丽森向东走去。她爬上山，走过马尔金塔后面的棵棵大树。艾丽森走得很快。她那年18岁，个子高高的，棕色的长发脏乎乎的。她脸色苍白，饥肠辘辘。天气很冷，但是没有下雨。艾丽森穿着外衣和鞋子，而我却既没有外衣也没有鞋子。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    'No！'Alizon cried．'Go back， I don't want you．'
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">“请等一下！”我冲姐姐喊道。“我想和你一起去。”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    Suddenly， a dog ran in front of Alizon．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">“不！”艾丽森大声说。“回去，我不需要你。”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    ' Good dog， good dog！' Alizon called． The dog ran to her and she put her band on its head． It was my sister' s dog and it liked her． It was a big dog with big teeth and I didn' t like it because it was always hungry．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">忽然间，一只狗在艾丽森面前跑着。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    I followed Alizon and her dog along the river to Colne．But before we arrived at Colne， we met John Law．John Law was a big fat man， about fifty years old．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">“乖狗儿，乖狗儿！”艾丽森招呼道。那条狗跑到她面前，艾丽森把手放在它的头上。它是我姐姐的狗，它喜欢她。它是条大狗，牙齿很大，可我不喜欢它，因为它总是显得饥饿不堪。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    'Can I have some money， please？'Alizon called．'I'm hun-gry·
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">我跟着艾丽森和她的狗沿着河向科恩村走去。在路上，我们遇到了约翰·劳。他是个大胖子，五十岁上下。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    John Law didn' t answer． He walked slowly because he was fat and because he carried a big bag on his back．In his bag were a lot of beautiful things．He was a pedlar and he walked across the hills and visited all the villages．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">“您能给点钱吗？”艾丽森大声说。“我饿着呢。”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    'Can I have some money？'Alizon called again．'I'm very hungry！'
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">约翰·劳没有回答。他走得很慢，一来由于他胖，二来因为他背着一个大口袋，口袋里有许多好玩意儿。他是个小商贩，翻山越岭，跑遍了所有村庄。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    John Law stopped．' Stop following me，' he said．' I'm not going to give you money．'
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">“能给我点钱吗？”艾丽森又喊了一次。“我很饿！”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    'Give me money！'Alizon said．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">约翰·劳停住了。“别跟着我，”他说。“我不会给你钱的。”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    'I don' t want to give you money，' the pedlar said． He took his hat off．There was not much hair on his head．'I don't like you and I don' t like your family． A lot of bad women， you are，and your father was a bad man， too．'
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">“给我钱！”艾丽森说。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    Alizon was angry．'Don't talk about my father—he' s dead now！ Give me some money， old man！'
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">“我不想给你钱，”小贩说。他摘下帽子，他的头发已经很稀少了。“我不喜欢你，我不喜欢你们全家。你们都是些坏女人，你的爸爸也是个坏人。”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    John Law' s face was red．' No！' he cried． He began to walk up the hill to the village．'Go back to your dirty family！'
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">艾丽森生气了。“不许你提起我父亲——他已经死了！给我钱，老头！”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    Alizon began to laugh angrily．'A dead man！A dead man！'she called．'Dead before dark，John Law！'She looked down at her dog and put her hand on its head．'Go after him，dog，'she said．'Go after him and get him！'
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">约翰·劳的脸涨红了。“不！”他喊道。他开始上山往村里走去。“回到你那肮脏的家里去吧！”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    The big dog began to run after the pedlar．John Law stopped．He looked afraid and his face was very red．'Call your dog back，you bad girl！'he shouted．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">艾丽森愤怒地大笑起来。“一个死人！一个死人！”她大喊着。“天黑前就死，约翰·劳！”她低下头看看她的狗，把手放在它的头上。“去追他，”她说，“去追他，抓住他。”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    Suddenly，his mouth opened and his face went white．Slowly，he began to fall，and his big body hit the road．The dog came up to him，but the pedlar did not move．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">那条大狗奔跑着去追赶小贩。约翰·劳停下了脚步。他看上去很害怕，满脸通红。“把你的狗叫回去，你这个坏女孩！”他大声喊着。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    Alizon watched John Law for a minute．Then she said to me，'Go and call someone from the village．'
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">突然，他的嘴张开了，脸色煞白。慢慢地，他倒了下去，他那硕大的身躯摔倒在路上。大狗冲到他身旁，而小贩却一动不动。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    I felt afraid，but I ran alog the road very quickly．'Help！Help！'I called to the villagers．'The pedlar is ill'
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">艾丽森盯着约翰·劳看了片刻，然后她对我说：“去村里叫人来。”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    The villagers came out of their houses and followed me down the hill．A young man looked at John Law carefully．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">我很害怕，但还是沿着路快跑起来。”救人呐！救人呐！”我向村民们大喊。“小贩生病了！”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    'He's not dead，'he said，'but he' s very ill．Let' s move him to the nearest house．Someone must go and call his son．'
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">村民们从各自家里出来，跟着我下了山。一个年轻人仔细地看了看约翰·劳。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    Just then， John Law began to talk very slowly．'I can' t move！' he said．' I 'm alive， but I can' t move！'
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">“他没有死，”他说。“可是他病得很重。咱们把他抬到最近的房子里去吧。必须把他的儿子叫来。”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    I went back to stand near Alizon．The dog sat at her feet．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">就在那时，约翰·劳十分缓慢地说道：“我动不了。”他说。“我还活着，可我动不了。”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    'That Device girl…'John Law said slowly，'she—she cursed me！ She wanted me to die！ And her dog came to get me．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">我回到艾丽森身旁站着。大狗蹲在她的脚边。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    All the villagers looked at Alizon．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">“那个迪瓦斯家的女孩子…”约翰·劳慢吞吞地说。“她——她诅咒我！她想让我死！她的狗向我扑过来。”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    'I 'm sorry，'Alizon said quickly．'I'm very hungry and I wanted some money，that's all．'
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">村民们都看着艾丽森。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    'Go away！' the villagers cried．'You' re a witch， and we don' t want you in our village．'
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">“我很抱歉。”艾丽森急忙说。“我很饿，我想要点钱，就是这么回事。”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    Alizon began to run away down the hill and her dog followed． I watched the villagers．They carried John Law slow-ly up the hill to the nearest house．And then I followed my sis-ter down the hill．I was hungry and tired and Malkin Tower was many miles away． I was nine years old and I was angry． I was angry because the pedlar was ill．I was angry because the villagers didn' t like me ．And I was angry because my sister was a witch．
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">“快走开！”村民们喊道。“你是个女巫，我们不想让你呆在我们村里。”</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">艾丽森向山下跑去，她的狗紧跟着她。我看着村民们。他们抬着约翰·劳缓慢地上山，向最近的一所房子走去。随后我跟着我的姐姐下了山。我又饿又乏，而马尔金塔远在数英里之外。那时我9岁，我很生气。我生气，因为小贩病了。我生气，因为村民们不喜欢我。我生气，因为我的姐姐是个女巫。</span>
+                    </p>
+                    <p></p>
+                
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    
+                </p>
+                <p></p>
+            
+                    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);"></span>
+                    </p>
+                    <p></p>
+                
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <span style="margin: 0px; padding: 0px; color: rgb(255, 169, 0);">未完待续.....<br style="margin: 0px; padding: 0px;"/></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<p>
+    <br/>
+</p>
+<section class="" data-tools="" data-id="91558" style="margin: 0px; padding: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; color: rgb(51, 51, 51);">
+    <section data-role="paragraph" class="" style="margin: 0px; padding: 0px; border-width: 0px; border-style: none; border-color: initial;">
+        <section style="margin: 0px; padding: 10px;">
+            <section style="margin: 0px; padding: 8px; border-width: 1px; border-style: solid; border-color: rgb(100, 98, 97);">
+                <section style="margin: 0px; padding: 10px; border-width: 1px; border-style: solid; border-color: rgb(85, 80, 77);">
+                    <section class="" data-brushtype="text" style="margin: 0px; padding: 0px 20px; display: inline-block; width: auto; background-color: rgb(64, 67, 66); color: rgb(254, 254, 254); line-height: 30px;">
+                        <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em;">
+                            热文推荐
+                        </p>
+                    </section>
+                    <section class="" style="margin: 20px auto; padding: 0px;">
+                        <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em;">
+                            <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483733&idx=1&sn=c7f3ef7de3320862fa776892e091c7f0&chksm=fcde923ccba91b2afb83ed0524202049783f58a8ff3241cddc66aa42bc84c6d91b51bdb4b27b&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">【词汇】英语四级必备词汇 第3课</a><br style="margin: 0px; padding: 0px;"/>
+                        </p>
+                        <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em;">
+                            <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483733&idx=2&sn=69f639b4bd45bc97fce202c047de99c4&chksm=fcde923ccba91b2af2186b614fa9a5c5592e7fb66132ae6898728096a60f47f7e279fbfbcbe5&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">【阅读】Visit to Australia / 访问澳大利亚</a>&nbsp;第一章<br style="margin: 0px; padding: 0px;"/>
+                        </p>
+                        <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em;">
+                            <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483697&idx=1&sn=2209a5aeadb4a26b6d5d3607fc419cdb&chksm=fcde9258cba91b4e7d3a6fecbfd784a470ced0f85226904aae25af4ebdcd4ef54170a5606378&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">【英语】为什么我们要学习英语？</a><br style="margin: 0px; padding: 0px;"/>
+                        </p>
+                        <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em;">
+                            <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483661&idx=1&sn=44213e9fcd9d19ba54843bbff3f8e720&chksm=fcde9264cba91b72ce573929626d597407b1f466d9dd18faf148bd4dee42c6a4f03fa263939a&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">如何学英语，看看这位同学的总结</a><br style="margin: 0px; padding: 0px;"/>
+                        </p>
+                    </section>
+                </section>
+            </section>
+        </section>
+    </section>
+</section>
+<p>
+    <br/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em;">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em;">
+    <img class="" data-backh="285" data-backw="558" data-before-oversubscription-url="https://mmbiz.qpic.cn/mmbiz_png/ULGBRicThgZvQ8jYm3SalNFjeLAEhCDs0D7jaNNTswkKBdeTdEctECR0u1mNSWMZBWoPPrIpXaicXbBQL0DyHWqg/0?wx_fmt=gif" data-copyright="0" data-ratio="0.5109489051094891" src="https://image.ipaiban.com/upload-ueditor-image-20180619-1529341446099077380.jpg" data-type="gif" data-w="685" width="100%" style="margin: 0px; padding: 0px; width: 668px; height: auto !important; visibility: visible !important;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em;">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<p>
+    <br/>
+</p>
+<section data-role="outer" label="Powered by 135editor.com" style="margin: 0px; padding: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; white-space: normal;">
+    <section data-role="outer" label="Powered by 135editor.com" style="margin: 0px; padding: 0px;">
+        <section class="" data-tools="" data-id="91435" style="margin: 0px; padding: 0px; border-width: 0px; border-style: none; border-color: initial;">
+            <section data-role="paragraph" class="" style="margin: 0px; padding: 0px; border-width: 0px; border-style: none; border-color: initial;">
+                <section data-width="100%" style="margin: 0px; padding: 0px; width: 668px; display: -webkit-flex; justify-content: center; align-items: center;">
+                    <section style="margin: 0px; padding: 0px; display: inline-block; width: auto;">
+                        <section class="" data-brushtype="text" style="margin: 0px; padding: 5px 10px; font-size: 14px; color: rgb(136, 136, 136); border-bottom: 0.1em solid rgb(130, 130, 130); border-top: 0.1em solid rgb(130, 130, 130); line-height: 35px;">
+                            <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">↓↓↓你的每一个点赞，都是对我爱的鼓励！</span>
+                        </section>
+                        <p>
+                            <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);"><br/></span>
+                        </p>
+                    </section>
+                </section>
+            </section>
+        </section>
+    </section>
+</section>

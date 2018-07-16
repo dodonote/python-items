@@ -30,10 +30,12 @@ conn = pymysql.connect(HOSTNAME, USERNAME, PASSWORD, DATABASE, charset="utf8")
 cur = conn.cursor()
 
 today = datetime.date.today().strftime("%Y-%m-%d")
+today_d = datetime.date.today().strftime("%d")
+today_m = datetime.date.today().strftime("%m")
 
 data_begin = '''
 <section class="color" style="margin: 0px; padding: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
-    <img class="" data-copyright="0" data-ratio="0.75" src="https://image.ipaiban.com/upload-ueditor-image-20180619-1529341445238095226.gif" data-type="gif" data-w="700" style="margin: 0px; padding: 0px; height: auto !important;"/><br style="margin: 0px; padding: 0px;"/>
+    <img class="" data-copyright="0" data-ratio="0.75" src="https://mmbiz.qpic.cn/mmbiz_jpg/ULGBRicThgZvgFqJxOynamwnSMzoTOy1h4Ww8JpRd1UMhCq9pTjdF6CzAb2ycDkorPsaG4ASKW6Kicl2pdD3ZpYw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" data-type="gif" data-w="700" style="margin: 0px; padding: 0px; height: auto !important;"/><br style="margin: 0px; padding: 0px;"/>
 </section>
 <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
     <br style="margin: 0px; padding: 0px;"/>
@@ -47,13 +49,13 @@ data_begin = '''
             <section class="" style="margin: 0px; padding: 0px; font-size: inherit; color: inherit; line-height: inherit;">
                 <section class="" style="margin: 0px; padding: 0px; font-size: inherit; color: inherit; text-align: center; line-height: 18px;">
                     <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-size: inherit; color: inherit; line-height: inherit;">
-                        15
+                        {day_d}
                     </p>
                     <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-size: inherit; color: inherit; line-height: inherit;">
                         ／
                     </p>
                     <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-size: inherit; color: inherit; line-height: inherit;">
-                        06
+                        {day_m}
                     </p>
                 </section>
             </section>
@@ -64,10 +66,10 @@ data_begin = '''
             <section class="" style="margin: 0px; padding: 0px; font-size: inherit; color: inherit; line-height: inherit;">
                 <section class="" style="margin: 0px; padding: 0px; color: inherit; font-size: 15px; line-height: 26px;">
                     <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-size: inherit; color: inherit; line-height: inherit;">
-                        <span style="margin: 0px; padding: 0px; font-size: inherit; line-height: inherit; color: rgb(178, 178, 178);">Visit</span><span style="margin: 0px; padding: 0px; font-size: inherit; line-height: inherit; color: rgb(178, 178, 178);">&nbsp;to Australia</span>
+                        <span style="margin: 0px; padding: 0px; font-size: inherit; line-height: inherit; color: rgb(178, 178, 178);">{title_en}</span>
                     </p>
                     <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-size: inherit; color: inherit; line-height: inherit;">
-                        <span style="margin: 0px; padding: 0px; font-size: inherit; line-height: inherit; color: rgb(178, 178, 178);">访</span><span style="margin: 0px; padding: 0px; font-size: inherit; line-height: inherit; color: rgb(178, 178, 178);">问澳大利亚</span>
+                        <span style="margin: 0px; padding: 0px; font-size: inherit; line-height: inherit; color: rgb(178, 178, 178);">{title_cn}</span>
                     </p>
                 </section>
             </section>
@@ -166,6 +168,7 @@ def read_bookwarm():
     cur.execute("select * from english_bookworm where `status` = 0 order by id asc limit 1")
     data = cur.fetchall()
 
+    global data_begin
     item = ''
     for i,info in enumerate(data):
 
@@ -187,15 +190,31 @@ def read_bookwarm():
     for i,info in enumerate(txt_en_arr):
 
         # print info.strip()
-        f.write('''
-            <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
-                '''+ info.strip() +'''
-            </p>
-            <p></p>
-        ''')
+        if i == 0:
+            print info.strip()
+            data_begin = data_begin.replace("{title_en}", info.strip())
+        else:
+            f.write('''
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                    '''+ info.strip() +'''
+                </p>
+                <p></p>
+            ''')
+
         for y,item in enumerate(txt_cn_arr):
 
             if i == y:
+
+                if i == 0:
+                    print item.strip()
+                    data_begin = data_begin.replace("{title_cn}", item.strip())
+                    f.write(data_begin)
+                    f.write('''
+                        <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+                            '''+ info.strip() +'''
+                        </p>
+                        <p></p>
+                    ''')
 
                 # print item.strip()
                 f.write('''
@@ -204,6 +223,9 @@ def read_bookwarm():
                     </p>
                     <p></p>
                 ''')
+                    # print data_begin
+
+
                 break
 
         # print i
@@ -211,7 +233,9 @@ def read_bookwarm():
 def main():
 
     # 开始
-    f.write(data_begin)
+    global data_begin
+    data_begin = data_begin.replace("{day_d}", today_d)
+    data_begin = data_begin.replace("{day_m}", today_m)
 
     # 句子
     read_bookwarm()

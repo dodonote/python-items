@@ -1,0 +1,309 @@
+
+<section class="_editor" style="margin: 0px; padding: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <section style="margin: 20px auto 0px; padding: 6px; width: 300px; background-color: rgb(0, 96, 149);">
+        <img src="https://image.ipaiban.com/upload-ueditor-image-20180612-1528778102053098075.png" data-type="png" class="" data-ratio="0.2610062893081761" data-w="318" style="margin: 0px auto; padding: 0px; display: block; vertical-align: top; height: auto !important; width: 170px !important; visibility: visible !important;"/>
+        <section style="margin: 0px auto; padding: 0px; text-align: center;">
+            <section style="margin: 3px 0px 10px; padding: 5px 0px 0px; display: inline-block; border-bottom: 4px solid white; font-size: 20px;">
+                <section style="margin: 0px 0px 3px; padding: 5px 2px 0px; display: inline-block; border-bottom: 2px solid white;">
+                    <section style="margin: -10px 0px 5px; padding: 0px; display: inline-block;">
+                        <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; color: rgb(255, 255, 255); font-size: 18px; min-width: 1px;">
+                            &nbsp;学习英语，开阔眼界&nbsp;
+                        </p>
+                    </section>
+                </section>
+            </section>
+        </section>
+    </section>
+</section>
+<p>
+    <br/>
+</p>
+
+<section style="margin: 10px 0px 0px; padding: 16px; text-align: left; border: 1px dashed rgb(71, 193, 168); border-radius: 10px; line-height: 1.4;">
+  <span style="color: rgb(12, 12, 12);"><strong style=";padding: 0px"><span style="padding: 0px; font-size: 18px; letter-spacing: 0.544px;">01&nbsp;</span></strong></span><span style="padding: 0px; font-size: 20px; color: rgb(0, 176, 240);">scorn </span><span style="padding: 0px; font-size: 20px; color: rgb(165, 165, 165);">[skɔ:n]</span>
+</section>
+<p>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">【释义】vt. 轻蔑</span>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">【例句】He is a target for scorn.</span><br style=";padding: 0px"/>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">&nbsp; 他是嘲笑的目标。</span>
+</p>
+<p>
+</p>
+
+<section style="margin: 10px 0px 0px; padding: 16px; text-align: left; border: 1px dashed rgb(71, 193, 168); border-radius: 10px; line-height: 1.4;">
+  <span style="color: rgb(12, 12, 12);"><strong style=";padding: 0px"><span style="padding: 0px; font-size: 18px; letter-spacing: 0.544px;">02&nbsp;</span></strong></span><span style="padding: 0px; font-size: 20px; color: rgb(0, 176, 240);">greeting </span><span style="padding: 0px; font-size: 20px; color: rgb(165, 165, 165);">[ˈɡri:tiŋ]</span>
+</section>
+<p>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">【释义】n. 问候，招呼，致敬</span>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">【例句】He drawled a greeting to her.</span><br style=";padding: 0px"/>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">&nbsp; 他慢吞吞地对她说声问候。</span>
+</p>
+<p>
+</p>
+
+<section style="margin: 10px 0px 0px; padding: 16px; text-align: left; border: 1px dashed rgb(71, 193, 168); border-radius: 10px; line-height: 1.4;">
+  <span style="color: rgb(12, 12, 12);"><strong style=";padding: 0px"><span style="padding: 0px; font-size: 18px; letter-spacing: 0.544px;">03&nbsp;</span></strong></span><span style="padding: 0px; font-size: 20px; color: rgb(0, 176, 240);">aid </span><span style="padding: 0px; font-size: 20px; color: rgb(165, 165, 165);">[eid]</span>
+</section>
+<p>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">【释义】n. 援助，救助</span>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">【例句】We had to berth our ship without the aid of tugboats.</span><br style=";padding: 0px"/>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">&nbsp; 我们只好在没有拖船帮助的情况下使我们的船停到泊位。</span>
+</p>
+<p>
+</p>
+
+<section style="margin: 10px 0px 0px; padding: 16px; text-align: left; border: 1px dashed rgb(71, 193, 168); border-radius: 10px; line-height: 1.4;">
+  <span style="color: rgb(12, 12, 12);"><strong style=";padding: 0px"><span style="padding: 0px; font-size: 18px; letter-spacing: 0.544px;">04&nbsp;</span></strong></span><span style="padding: 0px; font-size: 20px; color: rgb(0, 176, 240);">serious </span><span style="padding: 0px; font-size: 20px; color: rgb(165, 165, 165);">[ˈsiəriəs]</span>
+</section>
+<p>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">【释义】adj. 严肃的；认真的</span>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">【例句】The serious condition was borne in on them.</span><br style=";padding: 0px"/>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">&nbsp; 严重的情况引起了他们的注意。</span>
+</p>
+<p>
+</p>
+
+<section style="margin: 10px 0px 0px; padding: 16px; text-align: left; border: 1px dashed rgb(71, 193, 168); border-radius: 10px; line-height: 1.4;">
+  <span style="color: rgb(12, 12, 12);"><strong style=";padding: 0px"><span style="padding: 0px; font-size: 18px; letter-spacing: 0.544px;">05&nbsp;</span></strong></span><span style="padding: 0px; font-size: 20px; color: rgb(0, 176, 240);">retreat </span><span style="padding: 0px; font-size: 20px; color: rgb(165, 165, 165);">[riˈtri:t]</span>
+</section>
+<p>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">【释义】vi. 退却；后退</span>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">【例句】No retreat is allowed, only advance.</span><br style=";padding: 0px"/>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">&nbsp; 只许前进， 不许后退。</span>
+</p>
+<p>
+</p>
+
+<section style="margin: 10px 0px 0px; padding: 16px; text-align: left; border: 1px dashed rgb(71, 193, 168); border-radius: 10px; line-height: 1.4;">
+  <span style="color: rgb(12, 12, 12);"><strong style=";padding: 0px"><span style="padding: 0px; font-size: 18px; letter-spacing: 0.544px;">06&nbsp;</span></strong></span><span style="padding: 0px; font-size: 20px; color: rgb(0, 176, 240);">midnight </span><span style="padding: 0px; font-size: 20px; color: rgb(165, 165, 165);">[ˈmidnait]</span>
+</section>
+<p>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">【释义】n. 午夜，子夜，半夜</span>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">【例句】We lingered on until after midnight.</span><br style=";padding: 0px"/>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">&nbsp; 我们一直呆到午夜之后才离去。</span>
+</p>
+<p>
+</p>
+
+<section style="margin: 10px 0px 0px; padding: 16px; text-align: left; border: 1px dashed rgb(71, 193, 168); border-radius: 10px; line-height: 1.4;">
+  <span style="color: rgb(12, 12, 12);"><strong style=";padding: 0px"><span style="padding: 0px; font-size: 18px; letter-spacing: 0.544px;">07&nbsp;</span></strong></span><span style="padding: 0px; font-size: 20px; color: rgb(0, 176, 240);">direction </span><span style="padding: 0px; font-size: 20px; color: rgb(165, 165, 165);">[diˈrekʃən]</span>
+</section>
+<p>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">【释义】n. 方向，方位；指示</span>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">【例句】A bat echolocates the direction.</span><br style=";padding: 0px"/>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">&nbsp; 蝙蝠凭回声测定方向。</span>
+</p>
+<p>
+</p>
+
+<section style="margin: 10px 0px 0px; padding: 16px; text-align: left; border: 1px dashed rgb(71, 193, 168); border-radius: 10px; line-height: 1.4;">
+  <span style="color: rgb(12, 12, 12);"><strong style=";padding: 0px"><span style="padding: 0px; font-size: 18px; letter-spacing: 0.544px;">08&nbsp;</span></strong></span><span style="padding: 0px; font-size: 20px; color: rgb(0, 176, 240);">scientific </span><span style="padding: 0px; font-size: 20px; color: rgb(165, 165, 165);">[ˌsaiənˈtifik]</span>
+</section>
+<p>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">【释义】adj. 科学的；应用科学的</span>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">【例句】She envisages an era of great scientific discoveries.</span><br style=";padding: 0px"/>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">&nbsp; 她展望一个伟大的科学发明的时代。</span>
+</p>
+<p>
+</p>
+
+<section style="margin: 10px 0px 0px; padding: 16px; text-align: left; border: 1px dashed rgb(71, 193, 168); border-radius: 10px; line-height: 1.4;">
+  <span style="color: rgb(12, 12, 12);"><strong style=";padding: 0px"><span style="padding: 0px; font-size: 18px; letter-spacing: 0.544px;">09&nbsp;</span></strong></span><span style="padding: 0px; font-size: 20px; color: rgb(0, 176, 240);">tight </span><span style="padding: 0px; font-size: 20px; color: rgb(165, 165, 165);">[tait]</span>
+</section>
+<p>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">【释义】adj. 紧的；紧身的；不漏的</span>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">【例句】Don't tie the bandage too tight.</span><br style=";padding: 0px"/>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">&nbsp; 绷带不要扎得太紧。</span>
+</p>
+<p>
+</p>
+
+<section style="margin: 10px 0px 0px; padding: 16px; text-align: left; border: 1px dashed rgb(71, 193, 168); border-radius: 10px; line-height: 1.4;">
+  <span style="color: rgb(12, 12, 12);"><strong style=";padding: 0px"><span style="padding: 0px; font-size: 18px; letter-spacing: 0.544px;">10&nbsp;</span></strong></span><span style="padding: 0px; font-size: 20px; color: rgb(0, 176, 240);">profession </span><span style="padding: 0px; font-size: 20px; color: rgb(165, 165, 165);">[prəˈfeʃən]</span>
+</section>
+<p>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">【释义】n. 职业</span>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">【例句】His profession is diplomacy.</span><br style=";padding: 0px"/>
+</p>
+<p style="margin-top: 0px;margin-bottom: 0px;padding: 0px;clear: both;min-height: 1em">
+    <span style=";padding: 0px;color: rgb(136, 136, 136)">&nbsp; 他是职业外交人员。</span>
+</p>
+<p>
+</p>
+
+<p>
+    <br/>
+</p>
+<section style="margin: 0px; padding: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <section label="Copyright 2018 iPaiban All Rights Reserved （本样式已做版权保护，未经正式授权不允许任何第三方编辑器、企业、个人使用，违者必纠）" donone="shifuMouseDownPayStyle(&#39;shifu_imi_002&#39;)" style="margin: 0.5rem auto; padding: 0px; width: 24rem; border-width: initial; border-color: initial; border-style: none;">
+        <section style="margin: 0px; padding: 0px; width: 384px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+            <section class="ipaiban-bg" style="margin: 0px; padding: 0.5rem 1rem; font-size: 1rem; background-color: rgb(134, 162, 223); border-radius: 8px; color: rgb(255, 255, 255); letter-spacing: 2px; font-weight: bolder;">
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both;">
+                    <span style="margin: 0px; padding: 0px; font-family: 黑体; font-size: 18.6667px; text-align: center;">英语日常用语900句</span>
+                </p>
+            </section>
+            <section class="ipaiban-btc" style="margin: auto; padding: 0px; width: 0px; border-top: 0.8em solid rgb(134, 162, 223); border-left: 0.8em solid transparent !important; border-right: 0.8em solid transparent !important;">
+                <br style="margin: 0px; padding: 0px;"/>
+            </section>
+        </section>
+    </section>
+</section>
+
+            <section label="Copyright © 2014 playhudong All Rights Reserved." donone="shifuMouseDownCard(&#39;shifu_c_014&#39;)" style="margin: 10px 0px 0px; padding: 16px; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; white-space: normal; border-width: 1px; border-style: dashed; border-color: rgb(183, 184, 184); border-radius: 10px; line-height: 1.4;">
+            <p>
+                <strong><span style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);">九、Talking About Time 叙述时间</span></strong>
+            </p>
+            <p>
+                <strong><span style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);"><br/></span></strong>
+            </p>
+<span style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);">141. I was born on September 1st, 1976. 我出生在1976年9月1日。</span><br style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);"/>
+
+<span style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);">142. What time? 什么时候？</span><br style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);"/>
+
+<span style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);">143. You name the time. 你定时间吧。</span><br style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);"/>
+
+<span style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);">144. I’ll meet you tomorrow. 我们明天见面。</span><br style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);"/>
+
+<span style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);">145. Do you know the exact date? 你知道确切日期吗？</span><br style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);"/>
+
+<span style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);">146. Please check the date. 请核实一下日期。</span><br style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);"/>
+
+<span style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);">147. What were you doing this time last year? 去年这时候你在干什么？</span><br style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);"/>
+
+<span style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);">148. How long will the sale last? 折价销售多久？</span><br style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);"/>
+
+<span style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);">149. Only three days. 仅三天。</span><br style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);"/>
+
+<span style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);">150. I’ll be back in 5 days. 我五天之后回来。</span><br style="margin: 0px; padding: 0px; color: rgb(136, 136, 136);"/>
+
+            </section>
+            
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; min-height: 1em; white-space: pre-wrap; font-size: 18px; font-style: italic;">
+    <em style="margin: 0px; padding: 0px;"><strong style="margin: 0px; padding: 0px;"><img class="" data-ratio="1" src="https://image.ipaiban.com/upload-ueditor-image-20180612-1528778153975015710.gif" data-type="gif" data-w="128" style="margin: 0px; padding: 0px; height: 20px; width: 20px;"/></strong></em><span style="margin: 0px; padding: 0px;"><em style="margin: 0px; padding: 0px;"><strong style="margin: 0px; padding: 0px;">翻译：我是一名小学生，我非常喜欢我的学校生活。
+
+.</strong></em></span><br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; min-height: 1em; white-space: pre-wrap; font-size: 18px; font-style: italic;">
+    <span style="margin: 0px; padding: 0px; font-size: 16px; color: rgb(255, 41, 65);"> &nbsp; &nbsp;回复：20180711，获取翻译答案 </span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; min-height: 1em; white-space: pre-wrap; font-size: 18px; font-style: italic;">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; min-height: 1em; white-space: pre-wrap; font-size: 18px; font-style: italic;">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <strong style="margin: 0px; padding: 0px;">推荐阅读：</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483686&idx=1&sn=3e8c333a3975142c07751f5f6c2e3e19&chksm=fcde924fcba91b59aac3641474e76ccedcb03d6e3d7f520f2556f35840962fc26448c968585f&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">【词汇】英语四级必备词汇 第1课</a>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483697&idx=1&sn=2209a5aeadb4a26b6d5d3607fc419cdb&chksm=fcde9258cba91b4e7d3a6fecbfd784a470ced0f85226904aae25af4ebdcd4ef54170a5606378&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">【英语】为什么我们要学习英语？</a>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483661&idx=1&sn=44213e9fcd9d19ba54843bbff3f8e720&chksm=fcde9264cba91b72ce573929626d597407b1f466d9dd18faf148bd4dee42c6a4f03fa263939a&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">【英语】如何学英语，看看这位同学的总结</a>
+</p>
+<p></p>
+<section style="margin: 0.5rem auto; padding: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; width: 24rem; border-width: initial; border-color: initial; border-style: none;">
+    <section style="margin: 0px; padding: 0px; width: 384px;">
+        <section style="margin: 10px 0px; padding: 0px 5px; display: inline-block; vertical-align: middle;">
+            <section style="margin: 10px 0px; padding: 0px;">
+                <section class="ipaiban-blc" style="margin: 0px 0px -0.9em 0.5em; padding: 0px; height: 1.4em; border-left: 1px solid rgb(134, 162, 223);"></section>
+                <section class="ipaiban-btc" style="margin: 0px; padding: 0px; width: 2.5em; border-top: 1px solid rgb(134, 162, 223);"></section>
+                <section style="margin: 0px; padding: 0px 0.5em;">
+                    <section style="margin: 0px; padding: 10px;">
+                        <section style="margin: 0px; padding: 0px; text-align: center; font-size: 14px;">
+                            <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; text-align: justify;">
+                                <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178);">Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.<br style="margin: 0px; padding: 0px;"/>林子里有两条路，我选择了行人稀少的那一条，它改变了我的一生。</span>
+                            </p>
+                        </section>
+                    </section>
+                </section>
+                <section style="margin: 0px 0px 0px auto; padding: 0px; width: 2.5em;">
+                    <section class="ipaiban-btc" style="margin: 0px; padding: 0px; width: 2.5em; border-top: 1px solid rgb(134, 162, 223);"></section>
+                    <section class="ipaiban-blc" style="margin: -0.9em 0px 0px 2em; padding: 0px; height: 1.4em; border-left: 1px solid rgb(134, 162, 223);">
+                        <br style="margin: 0px; padding: 0px;"/>
+                    </section>
+                </section>
+            </section>
+        </section>
+    </section>
+</section>
+<p></p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <img class="" data-copyright="0" data-ratio="0.5109489051094891" src="https://image.ipaiban.com/upload-ueditor-image-20180613-1528865709491075593.jpg" data-type="gif" data-w="685" data-backw="558" data-backh="285" data-before-oversubscription-url="https://mmbiz.qpic.cn/mmbiz_png/ULGBRicThgZvQ8jYm3SalNFjeLAEhCDs0D7jaNNTswkKBdeTdEctECR0u1mNSWMZBWoPPrIpXaicXbBQL0DyHWqg/640?wx_fmt=gif" style="margin: 0px; padding: 0px; height: auto; width: 558px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em; color: rgb(51, 51, 51); text-align: center;">
+    <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178); font-size: 12px;">✬如果你喜欢这篇文章，欢迎分享到朋友圈✬</span><br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em; color: rgb(51, 51, 51); text-align: center;">
+    <span style="margin: 0px; padding: 0px; font-size: 12px; color: rgb(178, 178, 178);">评论功能现已开启，我们接受一切形式的吐槽和赞美</span>
+</p>
