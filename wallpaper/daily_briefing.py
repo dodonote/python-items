@@ -119,12 +119,6 @@ con = '''
 </section>
 <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
     <br style="margin: 0px; padding: 0px;"/>
-</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 5px 5px 5px 10px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); line-height: 0.6em; font-family: 微软雅黑; border-left: 3px solid rgb(255, 129, 36);">
-    <strong style="margin: 0px; padding: 0px;">重点词汇</strong>
-</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
-    <br style="margin: 0px; padding: 0px;"/>
 </p>'''
 sentence = '''
 <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
@@ -139,55 +133,121 @@ con_line = '''
     <br style="margin: 0px; padding: 0px;"/>
 </p>
 '''
-
-con_end = '''
-<p style="margin-top: 0px; margin-bottom: 10px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
-    <img class="" data-ratio="0.015625" data-src="https://mmbiz.qpic.cn/mmbiz_png/ULGBRicThgZu6e70gUKLbh6mHCCuACuynvb0WTjFqNEU64aJicxjBEkmbic7wibuoNIInlnqONMVaV5ENgJDycyDvw/640?wx_fmt=png" data-type="png" data-w="640" title="https://image.ipaiban.com/upload-ueditor-image-20180706-1530852410133037157.png" src="https://image.ipaiban.com/upload-ueditor-image-20180709-1531110149297015569.png" data-fail="0" style="margin: 0px; padding: 0px; height: auto !important; width: auto !important; visibility: visible !important;"/>
-</p>
-<p style="margin-top: 0px; margin-bottom: 10px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
-    <br style="margin: 0px; padding: 0px;"/>
-</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; white-space: normal; background-color: rgb(255, 255, 255); text-align: center;">
-    <span style="margin: 0px; padding: 0px; font-family: Optima-Regular, PingFangTC-light;"><span style="margin: 0px; padding: 0px; font-size: 15px; letter-spacing: 0.544px;">有些事，只能一个人做</span></span>
-</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; white-space: normal; background-color: rgb(255, 255, 255); text-align: center;">
-    <span style="margin: 0px; padding: 0px; font-family: Optima-Regular, PingFangTC-light;"><span style="margin: 0px; padding: 0px; font-size: 15px; letter-spacing: 0.544px;">有些路，只能一个人走</span></span>
-</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; white-space: normal; background-color: rgb(255, 255, 255); text-align: center;">
-    <span style="margin: 0px; padding: 0px; font-family: Optima-Regular, PingFangTC-light;"><span style="margin: 0px; padding: 0px; font-size: 15px; letter-spacing: 0.544px;">发现找到英语的乐趣让</span></span>
-</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; white-space: normal; background-color: rgb(255, 255, 255); text-align: center;">
-    <span style="margin: 0px; padding: 0px; font-family: Optima-Regular, PingFangTC-light;"><span style="margin: 0px; padding: 0px; font-size: 15px; letter-spacing: 0.544px;">学习英语成为一种习惯</span></span>
-</p>
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; white-space: normal; background-color: rgb(255, 255, 255); text-align: center;">
-    <span style="margin: 0px; padding: 0px; font-family: Optima-Regular, PingFangTC-light;"><span style="margin: 0px; padding: 0px; font-size: 15px; letter-spacing: 0.544px;"><br style="margin: 0px; padding: 0px;"/></span></span>
+sentence_fanyi = '''
+<section class="" style="margin: 0px; padding: 0px 10px; font-size: 14px; color: rgb(249, 110, 87); line-height: 1.8;">
+    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; text-align: center;">
+        （点击下面空白处 查看翻译）
+    </p>
+</section>
+<section label="Copyright © 2017 playhudong All Rights Reserved." style="
+border:none;
+border-style:none;
+margin:0rem auto;height:35px;line-height:35px;overflow:auto;" id="shifu_flo_001" donone="shifuMouseDownPayStyle(&#39;shifu_flo_001&#39;)">
+    <section style="
+overflow:hidden;">
+        <section style="width:100%;
+text-align: left;
+padding: 0rem 1rem;
+box-sizing: border-box;
+font-size: 0.875rem;
+line-height: 1.5;
+height:auto;
+overflow:hidden;
+color: #000;">
+            <p style="margin:0">
+                {fanyi_content}
+            </p>
+        </section>
+        <svg style="width:100%;
+height:40rem;
+margin-top:-40rem;
+" data-ipaiban-svg="style中的height、margin-top和rect标签中的height的高度保持一致">
+            <rect style="width:100%;
+height:40rem;
+fill: #fff;">
+                <animate attributename="opacity" begin="click" data-ipaiban-begin="begin可以写0s（秒数）或者click（点击触发）" dur="3s" data-ipaiban-dur="dur写几秒，动画就持续执行几秒" from="1" data-ipaiban-from="from写0~1，透明度就是从几开始" to="0" data-ipaiban-to="to写0~1，0为完全透明" fill="freeze" data-ipaiban-fill="fill指是否还原初始状态，freeze为不恢复"></animate>
+            </rect>
+        </svg>
+    </section>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 5px 5px 5px 10px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); line-height: 0.6em; font-family: 微软雅黑; border-left: 3px solid rgb(255, 129, 36);">
+    <strong style="margin: 0px; padding: 0px;">重点词汇</strong>
 </p>
 <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
     <br style="margin: 0px; padding: 0px;"/>
 </p>
-<section style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
-    <section data-role="outer" label="Powered by 135editor.com" style="margin: 0px; padding: 0px;">
-        <section class="" style="margin: 0px; padding: 0px; border-width: 0px; border-style: none; border-color: initial;">
-            <section data-width="100%" style="margin: 0px; padding: 0px; width: 668px;">
-                <section style="margin: 10px auto; padding: 0px; width: 300px;">
-                    <section style="margin: 0px; padding: 0px; display: -webkit-flex;">
-                        <section style="margin: 0px; padding: 0px; width: 185px;">
-                            <section style="margin: 0px; padding: 0px; width: 185px;">
-                                <img class="__bg_gif " data-ratio="0.5975" data-src="https://mmbiz.qpic.cn/mmbiz_gif/ULGBRicThgZu6e70gUKLbh6mHCCuACuyncG1Zr8dib8zydxE22PQ0fjn7XibwfvECKTyApqVgYcMQkBfibSc2gSJ2g/640?wx_fmt=gif" data-type="gif" data-w="400" data-width="100%" width="100%" _width="185px" src="https://image.ipaiban.com/upload-ueditor-image-20180709-1531110149356032051.gif" data-order="0" data-fail="0" style="margin: 0px; padding: 0px; display: block; height: auto !important; visibility: visible !important; width: 185px !important;"/>
-                            </section>
-                        </section>
-                        <section style="margin: 0px 0px 0px 5px; padding: 0px; width: 110px;">
-                            <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; width: 110px;">
-                                <img class="" data-copyright="0" data-cropselx1="0" data-cropselx2="110" data-cropsely1="0" data-cropsely2="110" data-ratio="1" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/ULGBRicThgZu6e70gUKLbh6mHCCuACuynLiahuFNzicDo2bicWfoAJdb1zT8cJEYH7eBXSrU1XicTTFaIbLTJQFky0g/640?wx_fmt=jpeg" data-type="jpeg" data-w="258" data-width="100%" title="https://image.ipaiban.com/upload-ueditor-image-20180706-1530852509371082537.jpg" width="110px" _width="110px" src="https://image.ipaiban.com/upload-ueditor-image-20180709-1531110149439091019.jpg" data-fail="0" style="margin: 0px; padding: 0px; display: block; height: auto !important; visibility: visible !important; width: 110px !important;"/>
-                            </p>
-                        </section>
+'''
+con_end = '''
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 5px 5px 5px 10px; clear: both; white-space: normal; min-height: 1em; color: rgb(51, 51, 51); font-size: 17px; letter-spacing: 0.544px; text-align: justify; background-color: rgb(255, 255, 255); line-height: 0.6em; font-family: 微软雅黑; border-left: 3px solid rgb(255, 129, 36);">
+    <strong style="margin: 0px; padding: 0px;">精选阅读</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483852&idx=1&sn=5e91555bbc075738ca2b675309431f84&chksm=fcde92a5cba91bb3a3839a50daf70e052ab5f45a61903f930a080cbd942d51c2a76c76aa50e6&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">【简报】陌陌入局短视频，“谁说”究竟剑指何方？ —Pingwest</a><br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483852&idx=2&sn=e601334576e1b0306df8e2bae7f859cb&chksm=fcde92a5cba91bb31b52a4d8676021a94cda76ec4db632bd9f32dec58b99f50f103b9c16168f&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">【词汇】英语四六级/考研词汇第十六课</a><br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483852&idx=3&sn=13a41253e2c8894359117ca0e43aae9e&chksm=fcde92a5cba91bb3b8809e0ee92479fb991adb4ea684c4c36ef4dbb880b5bb545921e30ffed8&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">【阅读】A FAMILY OF WITCHES &nbsp;巫师之家</a><br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em; color: rgb(51, 51, 51);">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483819&idx=4&sn=d8a869c37694def2f10b0c70b1ea0629&chksm=fcde92c2cba91bd4d6a84c62ba75a13034f8e0c466baf7989ae95055ac6bfa0366ee19279a7a&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(87, 107, 149); text-decoration-line: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">【福利】20的多个实用小工具 快速提升你的工作效率</a>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em; color: rgb(51, 51, 51);">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483697&idx=1&sn=2209a5aeadb4a26b6d5d3607fc419cdb&chksm=fcde9258cba91b4e7d3a6fecbfd784a470ced0f85226904aae25af4ebdcd4ef54170a5606378&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(87, 107, 149); text-decoration-line: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">【英语】为什么我们要学习英语？</a>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em; color: rgb(51, 51, 51);">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483661&idx=1&sn=44213e9fcd9d19ba54843bbff3f8e720&chksm=fcde9264cba91b72ce573929626d597407b1f466d9dd18faf148bd4dee42c6a4f03fa263939a&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(87, 107, 149); text-decoration-line: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">【英语】如何学英语，看看这位同学的总结</a>
+</p>
+<p style="margin-top: 0px; margin-bottom: 10px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em; color: rgb(51, 51, 51);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 10px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em; color: rgb(51, 51, 51);">
+    <img class="" data-ratio="0.015625" src="https://image.ipaiban.com/upload-ueditor-image-20180717-1531843096238046776.png" data-type="png" data-w="640" title="https://image.ipaiban.com/upload-ueditor-image-20180706-1530852410133037157.png" style="margin: 0px; padding: 0px; height: auto !important; width: auto !important; visibility: visible !important;"/>
+</p>
+<p></p>
+<section label="Copyright Reserved by PLAYHUDONG." donone="shifuMouseDownCard(&#39;shifu_c_007&#39;)" style="margin: 1em auto; padding: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; border-style: none;">
+    <section style="margin: 0px; padding: 16px; line-height: 2.4;">
+        <span class="color" style="margin: 0px 5px 0px 0px; padding: 0px; font-size: 3em; line-height: 1em; font-weight: bolder; vertical-align: middle; text-align: center;">“</span>认知决定你的人生格局，处事决定你的人生高度。提高认知，从认知的漏斗里爬出来，不做观天于井的青蛙，而是迎着命运，接受自我，于智慧的巅峰，看大千纷纭，观落英缤纷，美丽的世界，源自于美丽的人生，源自于豁达通明的认知，源自于不懈向上的娴静心境。<span class="color" style="margin: 0px 0px 0px 5px; padding: 0px; font-size: 3em; line-height: 1em; font-weight: bolder; vertical-align: middle; text-align: center;">”</span>
+    </section>
+    <section style="margin: 0px; padding: 5px; border-width: 1px; border-style: dashed; border-color: rgb(121, 121, 121);">
+        <section label="Copyright © 2016 playhudong All Rights Reserved." donone="shifuMouseDownPayStyle(&#39;shifu_sig_025&#39;)" style="margin: 0px auto; padding: 0px; border-width: initial; border-style: none; border-color: initial; width: 20em;">
+            <section style="margin: 0px; padding: 0px; width: 320px; text-align: center; font-size: 1em; line-height: 1.5em;">
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both;">
+                    想了解更多最新信息？
+                </p>
+            </section>
+            <section style="margin: 1em 0px; padding: 0px; width: 320px; text-align: center;">
+                <img class="lazy" data-copyright="0" data-cropselx1="0" data-cropselx2="160" data-cropsely1="0" data-cropsely2="160" data-ratio="1" src="https://image.ipaiban.com/upload-ueditor-image-20180717-1531843096403063706.jpg" data-type="jpeg" data-w="344" style="margin: 0px; padding: 0px; height: 160px; width: 160px; display: inline;"/>
+            </section>
+            <section class="ipaiban" style="margin: 0px; padding: 0px; width: 320px; border-top: 2px solid rgb(253, 208, 39); text-align: center;">
+                <section class="xhr" style="margin: 0px; padding: 0px; display: inline-block; background: rgb(253, 208, 39);">
+                    <section style="margin: 0px 0.5em 0px 0px; padding: 0px; width: 0px; height: 0px; float: left; display: inline-block; border-top: 1.6em solid transparent; border-left: 0.5em solid rgb(255, 255, 255);"></section>
+                    <section style="margin: 0px; padding: 0px; width: auto; font-size: 0.875em; line-height: 1em; color: rgb(255, 255, 255); display: inline-block;">
+                        <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both;">
+                            长按二维码 关注我们
+                        </p>
                     </section>
+                    <section style="margin: 0px 0px 0px 0.5em; padding: 0px; width: 0px; height: 0px; float: right; display: inline-block; border-top: 1.6em solid transparent; border-right: 0.5em solid rgb(255, 255, 255);"></section>
                 </section>
+            </section>
+            <section style="margin: 1em 0px 0px; padding: 0px; width: 320px; text-align: center; font-size: 1em; line-height: 1.5em;">
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both;">
+                    有问题请联系小编<br style="margin: 0px; padding: 0px;"/>微信ID：<br style="margin: 0px; padding: 0px;"/>hailuotoutiao
+                </p>
             </section>
         </section>
     </section>
+    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); text-align: center;">
+        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178); font-size: 12px;">✬如果你喜欢这篇文章，欢迎分享到朋友圈✬</span><br style="margin: 0px; padding: 0px;"/>
+    </p>
+    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); text-align: center;">
+        <span style="margin: 0px; padding: 0px; font-size: 12px; color: rgb(178, 178, 178);">评论功能现已开启，我们接受一切形式的吐槽和赞美</span>
+    </p>
 </section>
-<p></p>
 '''
 # 图片数组
 img_arr = []
@@ -318,6 +378,9 @@ def main():
                 # print result['trans'][0]
                 content_read = content_read + "\n\n" + str(i-1) + "." + info + "\n\n" + result['trans'][0]['dst'] + "\n\n" + result['trans'][1]['dst'] + "\n\n[相关词汇]\n\n"
                 article_con = article_con + con.replace("{num}",str(i-1)).replace("{title}",result['trans'][0]['src']).replace("{con}",result['trans'][1]['src'])
+
+                #句子翻译
+                article_con = article_con + sentence_fanyi.replace("{fanyi_content}",result['trans'][0]['dst']+"<br/>"+result['trans'][1]['dst']);
 
                 for wd in result['keywords']:
 
