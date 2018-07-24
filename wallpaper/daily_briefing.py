@@ -17,6 +17,7 @@ import urllib2
 import datetime
 import os
 import re
+import unicodedata
 import json
 import sys
 
@@ -140,9 +141,8 @@ sentence_fanyi = '''
     </p>
 </section>
 <section label="Copyright © 2017 playhudong All Rights Reserved." style="
-border:none;
-border-style:none;
-margin:0rem auto;height:35px;line-height:35px;overflow:auto;" id="shifu_flo_001" donone="shifuMouseDownPayStyle(&#39;shifu_flo_001&#39;)">
+border-width: 1px; border-style: dotted; border-color: rgb(198, 198, 199);
+margin:0rem auto;height:50px;line-height:35px;overflow:auto;" id="shifu_flo_001" donone="shifuMouseDownPayStyle(&#39;shifu_flo_001&#39;)">
     <section style="
 overflow:hidden;">
         <section style="width:100%;
@@ -170,6 +170,9 @@ fill: #fff;">
         </svg>
     </section>
 </section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
 <p style="margin-top: 0px; margin-bottom: 0px; padding: 5px 5px 5px 10px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); line-height: 0.6em; font-family: 微软雅黑; border-left: 3px solid rgb(255, 129, 36);">
     <strong style="margin: 0px; padding: 0px;">重点词汇</strong>
 </p>
@@ -384,22 +387,37 @@ def main():
 
                 for wd in result['keywords']:
 
-                    # print wd
-                    content_read = content_read + wd['word'] + " " + ','.join(wd['means']) + "\n"
-                    article_con = article_con + sentence.replace("{vocabulary_en}",wd['word']).replace("{translate_cn}",".".join(wd['means']))
-
-                    cur.execute("select `word` from english_important_vocabulary where `word` = '"+wd['word']+"'")
+                    #查询是不是已经存在
+                    cur.execute("select `word`,`interpret` from english_important_vocabulary where `word` = '"+wd['word']+"'")
                     get_info = cur.fetchone()
-
-                    # print "select `word` from english_important_vocabulary where `word` = '%s'" % wd['word']
-                    #
-                    # print get_info
 
                     if get_info is None and not wd['word'] in word_arr:
 
                         sub_ary = (wd['word'],','.join(wd['means']))
                         content_vocabulary.append(sub_ary)
                         word_arr.append(wd['word'])
+
+                        #新翻译词汇
+                        content_read = content_read + wd['word'] + " " + ','.join(wd['means']) + "\n"
+                        article_con = article_con + sentence.replace("{vocabulary_en}",wd['word']).replace("{translate_cn}",".".join(wd['means']))
+
+                    else:
+
+                        #存在，则读取数据库中的内容
+                        interpret = get_info[1];
+                        interpret_str = unicodedata.normalize('NFKD', interpret).encode('ascii','ignore') # unicode 转 str
+                        # print interpret
+                        # print type(interpret_str)
+                        # print interpret_str
+                        # wd['means'] = interpret_str.split(",")
+
+                        # print wd
+                        content_read = content_read + wd['word'] + " " + interpret + "\n"
+                        article_con = article_con + sentence.replace("{vocabulary_en}",wd['word']).replace("{translate_cn}",interpret)
+
+                    # print "select `word` from english_important_vocabulary where `word` = '%s'" % wd['word']
+                    #
+                    # print get_info
 
                 article_con = article_con + con_line
 
