@@ -270,24 +270,30 @@ def crawl_article():
         # print res.text
         soup = BeautifulSoup(res.text, 'lxml')
 
-        html = soup.select(".main")[0]
+        html = soup.select(".qodef-page-content-holder")[0]
 
         # print html
 
-        name = html.select(".post-title")[0].get_text();
-        date = html.select(".post-content > h2")[0].get_text();
+        name = "daily briefing";
+        date = html.select("h2")[0].get_text();
 
-        title_a = html.select(".post-content p")[0].get_text();
-        content_a = html.select(".post-content p")[1].get_text();
+        title_a = html.select("p")[0].get_text();
+        content_a = html.select("p")[1].get_text();
 
-        title_b = html.select(".post-content p")[3].get_text();
-        content_b = html.select(".post-content p")[4].get_text();
+        title_b = html.select("p")[3].get_text();
+        content_b = html.select("p")[4].get_text();
 
-        title_c = html.select(".post-content p")[6].get_text();
-        content_c = html.select(".post-content p")[7].get_text();
+        title_c = html.select("p")[6].get_text();
+        content_c = html.select("p")[7].get_text();
 
-        title_d = html.select(".post-content p")[9].get_text();
-        content_d = html.select(".post-content p")[10].get_text();
+        title_d = html.select("p")[9].get_text();
+        content_d = html.select("p")[10].get_text();
+
+        title_e = html.select("p")[12].get_text();
+        content_e = html.select("p")[13].get_text();
+
+        title_f = html.select("p")[15].get_text();
+        content_f = html.select("p")[16].get_text();
 
         # print name
         # print date
@@ -307,7 +313,7 @@ def crawl_article():
         # print content_d
 
         data = []
-        sub_ary = (name,date,title_a+"\n\n"+content_a,title_b+"\n\n"+content_b,title_c+"\n\n"+content_c,title_d+"\n\n"+content_d)
+        sub_ary = (name,date,title_a+"\n\n"+content_a,title_b+"\n\n"+content_b,title_c+"\n\n"+content_c,title_d+"\n\n"+content_d,title_e+"\n\n"+content_e,title_f+"\n\n"+content_f)
 
         data.append(sub_ary)
 
@@ -371,7 +377,7 @@ def main():
 
         # print info
 
-        if i > 1:
+        if i > 1 and info:
 
             result = translate(info)
 
