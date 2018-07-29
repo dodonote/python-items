@@ -38,8 +38,8 @@ today_m = datetime.date.today().strftime("%m")
 today_d = datetime.date.today().strftime("%d")
 
 title = '''
-<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
-    <img class="" data-ratio="0.11875" data-src="https://mmbiz.qpic.cn/mmbiz_png/ULGBRicThgZu6e70gUKLbh6mHCCuACuynDQkvFSICRRuK9RlicP8q9kG1Sed5AGVnO0Q2y5hNH8bMAZKnzAPYxYQ/640?wx_fmt=png" data-type="png" data-w="640" title="https://image.ipaiban.com/upload-ueditor-image-20180706-1530852278672076937.png" src="https://image.ipaiban.com/upload-ueditor-image-20180709-1531110149086024850.jpg" data-fail="0" style="margin: 0px; padding: 0px; height: auto !important; width: auto !important; visibility: visible !important;"/>
+<p style="text-align:center">
+    <img class="" data-ratio="0.11875" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/ULGBRicThgZvPDhSic2eliclib6tNzP3zNKIIgIq4mShd7e0gKcYVibcenbEYfgGqoD7xw8oq7d8g9b9rqHFujiaQzuw/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" data-type="png" data-w="640" title="https://mmbiz.qpic.cn/mmbiz_jpg/ULGBRicThgZvPDhSic2eliclib6tNzP3zNKIIgIq4mShd7e0gKcYVibcenbEYfgGqoD7xw8oq7d8g9b9rqHFujiaQzuw/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" src="https://mmbiz.qpic.cn/mmbiz_jpg/ULGBRicThgZvPDhSic2eliclib6tNzP3zNKIIgIq4mShd7e0gKcYVibcenbEYfgGqoD7xw8oq7d8g9b9rqHFujiaQzuw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" data-fail="0" style="margin: 0px; padding: 0px; height: auto !important; width: auto !important; visibility: visible !important;"/>
 </p>
 <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
     <br style="margin: 0px; padding: 0px;"/>
@@ -188,16 +188,22 @@ con_end = '''
     <br style="margin: 0px; padding: 0px;"/>
 </p>
 <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
-    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483852&idx=1&sn=5e91555bbc075738ca2b675309431f84&chksm=fcde92a5cba91bb3a3839a50daf70e052ab5f45a61903f930a080cbd942d51c2a76c76aa50e6&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">【简报】陌陌入局短视频，“谁说”究竟剑指何方？ —Pingwest</a><br style="margin: 0px; padding: 0px;"/>
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483852&idx=1&sn=5e91555bbc075738ca2b675309431f84&chksm=fcde92a5cba91bb3a3839a50daf70e052ab5f45a61903f930a080cbd942d51c2a76c76aa50e6&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;"></a>
 </p>
 <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
-    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483852&idx=2&sn=e601334576e1b0306df8e2bae7f859cb&chksm=fcde92a5cba91bb31b52a4d8676021a94cda76ec4db632bd9f32dec58b99f50f103b9c16168f&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">【词汇】英语四六级/考研词汇第十六课</a><br style="margin: 0px; padding: 0px;"/>
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483897&idx=2&sn=558dac52bb6ff59656c76a96973ef4c5&chksm=fcde9290cba91b863d86c3d41efb17699cf1fe4a2a94a895b9ce9bd188ba24679231866f06eb&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">【词汇】英语词汇第22课</a><br style="margin: 0px; padding: 0px;"/>
 </p>
 <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
-    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483852&idx=3&sn=13a41253e2c8894359117ca0e43aae9e&chksm=fcde92a5cba91bb3b8809e0ee92479fb991adb4ea684c4c36ef4dbb880b5bb545921e30ffed8&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">【阅读】A FAMILY OF WITCHES &nbsp;巫师之家</a><br style="margin: 0px; padding: 0px;"/>
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483811&idx=4&sn=1ce07da4a5c6a5fceadf35c401b520ee&chksm=fcde92cacba91bdcc54b1c5360ce2caa40e39e36d309cca76b80c7fa432b1efb5c41c8f218e0&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">【福利】更新《剑指offer秋招笔记》资料直接下载</a><br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483801&idx=4&sn=f67da2b252d54d9619c4b9e7d57296b4&chksm=fcde92f0cba91be6dd505ed27e1f672e3d281aacd457be4695b8cee442d34d086beb15e31e96&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">【福利】资料 | 一份收藏量超过两万多的计算机科学学习笔记</a><br style="margin: 0px; padding: 0px;"/>
 </p>
 <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em; color: rgb(51, 51, 51);">
     <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483819&idx=4&sn=d8a869c37694def2f10b0c70b1ea0629&chksm=fcde92c2cba91bd4d6a84c62ba75a13034f8e0c466baf7989ae95055ac6bfa0366ee19279a7a&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(87, 107, 149); text-decoration-line: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">【福利】20的多个实用小工具 快速提升你的工作效率</a>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em; color: rgb(51, 51, 51);">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483783&idx=4&sn=20d9f2eca2ceb1be374786ec381f8044&chksm=fcde92eecba91bf8228fa112188b5bef4c0fb3c0ba748ad15d7a8cd0452aba329ce144ad28cd&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">【福利】英语视频教程免费发放</a>
 </p>
 <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em; color: rgb(51, 51, 51);">
     <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483697&idx=1&sn=2209a5aeadb4a26b6d5d3607fc419cdb&chksm=fcde9258cba91b4e7d3a6fecbfd784a470ced0f85226904aae25af4ebdcd4ef54170a5606378&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(87, 107, 149); text-decoration-line: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">【英语】为什么我们要学习英语？</a>
@@ -206,12 +212,11 @@ con_end = '''
     <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483661&idx=1&sn=44213e9fcd9d19ba54843bbff3f8e720&chksm=fcde9264cba91b72ce573929626d597407b1f466d9dd18faf148bd4dee42c6a4f03fa263939a&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(87, 107, 149); text-decoration-line: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">【英语】如何学英语，看看这位同学的总结</a>
 </p>
 <p style="margin-top: 0px; margin-bottom: 10px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em; color: rgb(51, 51, 51);">
-    <br style="margin: 0px; padding: 0px;"/>
+    <br/>
 </p>
 <p style="margin-top: 0px; margin-bottom: 10px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em; color: rgb(51, 51, 51);">
     <img class="" data-ratio="0.015625" src="https://image.ipaiban.com/upload-ueditor-image-20180717-1531843096238046776.png" data-type="png" data-w="640" title="https://image.ipaiban.com/upload-ueditor-image-20180706-1530852410133037157.png" style="margin: 0px; padding: 0px; height: auto !important; width: auto !important; visibility: visible !important;"/>
 </p>
-<p></p>
 <section label="Copyright Reserved by PLAYHUDONG." donone="shifuMouseDownCard(&#39;shifu_c_007&#39;)" style="margin: 1em auto; padding: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; border-style: none;">
     <section style="margin: 0px; padding: 16px; line-height: 2.4;">
         <span class="color" style="margin: 0px 5px 0px 0px; padding: 0px; font-size: 3em; line-height: 1em; font-weight: bolder; vertical-align: middle; text-align: center;">“</span>认知决定你的人生格局，处事决定你的人生高度。提高认知，从认知的漏斗里爬出来，不做观天于井的青蛙，而是迎着命运，接受自我，于智慧的巅峰，看大千纷纭，观落英缤纷，美丽的世界，源自于美丽的人生，源自于豁达通明的认知，源自于不懈向上的娴静心境。<span class="color" style="margin: 0px 0px 0px 5px; padding: 0px; font-size: 3em; line-height: 1em; font-weight: bolder; vertical-align: middle; text-align: center;">”</span>
@@ -268,32 +273,48 @@ def crawl_article():
         res.encoding = 'utf-8'
 
         # print res.text
+
         soup = BeautifulSoup(res.text, 'lxml')
 
         html = soup.select(".qodef-page-content-holder")[0]
 
         # print html
 
+        title_d = "";
+        content_e = "";
+        title_e = "";
+        conent_e = "";
+        title_f = "";
+        content_f = "";
+
         name = "daily briefing";
         date = html.select("h2")[0].get_text();
 
-        title_a = html.select("p")[0].get_text();
-        content_a = html.select("p")[1].get_text();
+        ltg = len(html.select("p"))
 
-        title_b = html.select("p")[3].get_text();
-        content_b = html.select("p")[4].get_text();
+        if html.select("p")[0]:
+            title_a = html.select("p")[0].get_text();
+            content_a = html.select("p")[1].get_text();
 
-        title_c = html.select("p")[6].get_text();
-        content_c = html.select("p")[7].get_text();
+        if html.select("p")[3]:
+            title_b = html.select("p")[3].get_text();
+            content_b = html.select("p")[4].get_text();
 
-        title_d = html.select("p")[9].get_text();
-        content_d = html.select("p")[10].get_text();
+        if html.select("p")[6]:
+            title_c = html.select("p")[6].get_text();
+            content_c = html.select("p")[7].get_text();
 
-        title_e = html.select("p")[12].get_text();
-        content_e = html.select("p")[13].get_text();
+        if ltg > 10:
+            title_d = html.select("p")[9].get_text();
+            content_d = html.select("p")[10].get_text();
 
-        title_f = html.select("p")[15].get_text();
-        content_f = html.select("p")[16].get_text();
+        if ltg > 13:
+            title_e = html.select("p")[12].get_text();
+            content_e = html.select("p")[13].get_text();
+
+        if ltg > 16:
+            title_f = html.select("p")[15].get_text();
+            content_f = html.select("p")[16].get_text();
 
         # print name
         # print date
@@ -313,7 +334,12 @@ def crawl_article():
         # print content_d
 
         data = []
-        sub_ary = (name,date,title_a+"\n\n"+content_a,title_b+"\n\n"+content_b,title_c+"\n\n"+content_c,title_d+"\n\n"+content_d,title_e+"\n\n"+content_e,title_f+"\n\n"+content_f)
+        sub_ary = (name,date,title_a+"\n\n"+content_a,title_b+"\n\n"+content_b,title_c+"\n\n"+content_c,title_d+"\n\n"+content_d);
+        if title_e:
+            sub_ary = (name,date,title_a+"\n\n"+content_a,title_b+"\n\n"+content_b,title_c+"\n\n"+content_c,title_d+"\n\n"+content_d,title_e + "\n\n" + content_e);
+
+        if title_f:
+            sub_ary = (name,date,title_a+"\n\n"+content_a,title_b+"\n\n"+content_b,title_c+"\n\n"+content_c,title_d+"\n\n"+content_d,title_e + "\n\n" + content_e,title_f + "\n\n" + content_f);
 
         data.append(sub_ary)
 
@@ -321,6 +347,10 @@ def crawl_article():
 
 # 翻译
 def translate(con):
+
+    if not con:
+
+        return
 
     # 手机版百度翻译
     url = 'http://fanyi.baidu.com/basetrans'
@@ -379,9 +409,13 @@ def main():
 
         if i > 1 and info:
 
+            # print info
+            # info = info.replace("\n\n","")
+
             result = translate(info)
 
             if result['errno'] == 0:
+
 
                 # print info
                 # print result['trans'][0]
