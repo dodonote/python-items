@@ -283,7 +283,7 @@ def crawl_article(url):
 
         soup = BeautifulSoup(res.text, 'lxml')
 
-        html = soup.select(".posts-wrapper")[0]
+        html = soup.select(".isotope-container")[0]
 
         # print html
 
@@ -295,24 +295,28 @@ def crawl_article(url):
         # sub_data.append(sub_ary);
         title = "";excerpt = "";url = "";
 
-        data = html.select(".post-summary");
+        data = html.select(".tmb-post");
 
         for info in data:
 
             # print info
             # print info.find("h2").find("a")['href']
-            url = info.find("h2").find("a")['href']
+
+            url = info.select(".t-entry h3")[0].find("a")["href"]
 
             if today_str in url:
-                title = info.select(".post-title a")[0].get_text()
+                title = info.select(".t-entry .t-entry-title a")[0].get_text()
                 # excerpt = info.select(".post-excerpt")[0].get_text()
 
                 sub_ary = (title)
                 sub_data.append(sub_ary)
                 # print sub_data
 
+            # print title
+            # print url
+
             if yesterday in url:
-                title = info.select(".post-title a")[0].get_text()
+                title = info.select(".t-entry .t-entry-title a")[0].get_text()
                 # excerpt = info.select(".post-excerpt")[0].get_text()
 
                 sub_ary = (title)
@@ -378,13 +382,14 @@ def main():
     data = data_new + data_brief
     data_yesterday = data_new_yesterday + data_brief_yesterday
 
-    print data
-    print data_yesterday
-
-    exit()
+    # print data
+    # print data_yesterday
+    #
+    # exit()
 
     i = 1
-    content_read = ""
+    sub_read = ""
+    content_read = []
     content_vocabulary = [];word_arr = []
     article_con = ""
     for info in data:
@@ -405,11 +410,21 @@ def main():
 
                 # print info
                 # print result['trans'][0]
-                content_read = content_read + "\n\n" + str(i) + "." + info + "\n\n" + result['trans'][0]['dst'] + "\n\n" + result['trans'][1]['dst'] + "\n\n[相关词汇]\n\n"
-                article_con = article_con + con.replace("{num}",str(i)).replace("{title}",result['trans'][0]['src']).replace("{con}",result['trans'][1]['src'])
+
+                # 查询是不是已经存在
+                cur.execute(
+                    "select * from english_technnode where `en` = '" + info + "'")
+                get_read = cur.fetchone()
+
+                if get_read is None:
+
+                    sub_read = (info, result['trans'][0]['dst'], today)
+                    content_read.append(sub_read)
+                # content_read = content_read + "\n\n" + str(i) + "." + info + "\n\n" + result['trans'][0]['dst'] + "\n\n" + result['trans'][1]['dst'] + "\n\n[相关词汇]\n\n"
+                # article_con = article_con + con.replace("{num}",str(i)).replace("{title}",result['trans'][0]['src']).replace("{con}",result['trans'][1]['src'])
 
                 #句子翻译
-                article_con = article_con + sentence_fanyi.replace("{fanyi_content}",result['trans'][0]['dst']+"<br/>"+result['trans'][1]['dst']);
+                # article_con = article_con + sentence_fanyi.replace("{fanyi_content}",result['trans'][0]['dst']+"<br/>"+result['trans'][1]['dst']);
 
                 for wd in result['keywords']:
 
@@ -423,63 +438,59 @@ def main():
                         content_vocabulary.append(sub_ary)
                         word_arr.append(wd['word'])
 
-                        #新翻译词汇
-                        content_read = content_read + wd['word'] + " " + ','.join(wd['means']) + "\n"
-                        article_con = article_con + sentence.replace("{vocabulary_en}",wd['word']).replace("{translate_cn}",".".join(wd['means']))
+                        # #新翻译词汇
+                        # content_read = content_read + wd['word'] + " " + ','.join(wd['means']) + "\n"
+                        # article_con = article_con + sentence.replace("{vocabulary_en}",wd['word']).replace("{translate_cn}",".".join(wd['means']))
 
-                    else:
+                    # else:
 
                         #存在，则读取数据库中的内容
-                        interpret = get_info[1];
-                        interpret_str = unicodedata.normalize('NFKD', interpret).encode('ascii','ignore') # unicode 转 str
+                        # interpret = get_info[1];
+                        # interpret_str = unicodedata.normalize('NFKD', interpret).encode('ascii','ignore') # unicode 转 str
                         # print interpret
                         # print type(interpret_str)
                         # print interpret_str
                         # wd['means'] = interpret_str.split(",")
 
                         # print wd
-                        content_read = content_read + wd['word'] + " " + interpret + "\n"
-                        article_con = article_con + sentence.replace("{vocabulary_en}",wd['word']).replace("{translate_cn}",interpret)
+                        # content_read = content_read + wd['word'] + " " + interpret + "\n"
+                        # article_con = article_con + sentence.replace("{vocabulary_en}",wd['word']).replace("{translate_cn}",interpret)
 
                     # print "select `word` from english_important_vocabulary where `word` = '%s'" % wd['word']
                     #
                     # print get_info
 
-                article_con = article_con + con_line
+                # article_con = article_con + con_line
 
-        else:
-
-            content_read = content_read + info + "\n\n"
-
-
-        i = i+1
         # print result
 
     # print content_read
 
     # print content_vocabulary
     # 文章
-    rowcount = cur.execute(
-        'INSERT INTO english_science_read (`content`) values(%s)', content_read)
+    # print content_read
+    rowcount = cur.executemany(
+        'INSERT INTO english_technode (`en`,`cn`,`create_date`) values(%s,%s,%s)', content_read)
     conn.commit()
 
     # 词汇
+    # print content_vocabulary
     rowcount = cur.executemany(
         'INSERT INTO english_important_vocabulary (`word`,`interpret`) values(%s,%s)', content_vocabulary)
     conn.commit()
 
     # 写入文件
-    txt_name = 'daily_briefing_' + today + ".txt"
-    f = open(txt_name, "a+")
-    f.truncate()
-
-    f.write(title)
-
-    f.write(article_con)
-
-    f.write(con_end)
-
-    f.close()
+    # txt_name = 'daily_technode_' + today + ".txt"
+    # f = open(txt_name, "a+")
+    # f.truncate()
+    #
+    # f.write(title)
+    #
+    # f.write(article_con)
+    #
+    # f.write(con_end)
+    #
+    # f.close()
 
     print "SUCCESS"
 
