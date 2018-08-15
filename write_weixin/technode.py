@@ -21,6 +21,7 @@ import re
 import unicodedata
 import json
 import sys
+import unicodedata
 
 reload(sys)
 
@@ -62,7 +63,7 @@ title = '''
         </section>
         <section style="margin: 0px 5px; padding: 0px;">
             <section style="margin: 0px; padding: 0px 15px; line-height: 30px; color: rgb(255, 255, 255); background-color: rgb(225, 133, 1);">
-                <span style="margin: 0px; padding: 0px; font-size: 20px;"><strong style="margin: 0px; padding: 0px;">英文科技简报</strong></span>
+                <span style="margin: 0px; padding: 0px; font-size: 20px;"><strong style="margin: 0px; padding: 0px;">英文简报</strong></span>
             </section>
         </section>
         <section style="margin: 0px; padding: 0px; width: 30px;">
@@ -100,6 +101,7 @@ title = '''
 </p>
 '''
 
+#句子
 con = '''
 <section class="" data-color="#ff8124" data-custom="#ff8124" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
     <section style="margin: 0px; padding: 0px; display: inline-block; float: left; color: rgb(255, 255, 255); border-color: rgb(255, 129, 36); background-color: rgb(255, 129, 36);">
@@ -115,23 +117,20 @@ con = '''
     </section>
 </section>
 <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
-    <br style="margin: 0px; padding: 0px;"/>
+    <span style="font-size: 14px; color: rgb(216, 216, 216);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>{con}</em></span>
 </p>
-<section class="" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
-    <section class="" style="margin: 0px; padding: 1em 0.8em; font-size: 14px; letter-spacing: 1.5px; line-height: 1.75em; color: rgb(70, 70, 72); border-width: 1px; border-style: dotted; border-color: rgb(198, 198, 199);">
-        <p style="margin-top: 0px; margin-bottom: 10px; padding: 0px; clear: both; min-height: 1em; letter-spacing: 0.5px; line-height: 1.75em;">
-            <span style="margin: 0px; padding: 0px; font-size: 15px;"></span>{con}
-        </p>
-    </section>
-</section>
 <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
     <br style="margin: 0px; padding: 0px;"/>
 </p>'''
+
+#重点词汇
 sentence = '''
 <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
     <span style="margin: 0px; padding: 0px; color: rgb(0, 112, 192);">{vocabulary_en}&nbsp;</span><span style="margin: 0px; padding: 0px; color: rgb(67, 149, 255);">&nbsp;</span>{translate_cn}
 </p>
 '''
+
+#空格
 con_line = '''
 <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
     <br style="margin: 0px; padding: 0px;"/>
@@ -140,42 +139,9 @@ con_line = '''
     <br style="margin: 0px; padding: 0px;"/>
 </p>
 '''
+
+#词汇
 sentence_fanyi = '''
-<section class="" style="margin: 0px; padding: 0px 10px; font-size: 14px; color: rgb(249, 110, 87); line-height: 1.8;">
-    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; text-align: center;">
-        （点击下面空白处 查看翻译）
-    </p>
-</section>
-<section label="Copyright © 2017 playhudong All Rights Reserved." style="
-border-width: 1px; border-style: dotted; border-color: rgb(198, 198, 199);
-margin:0rem auto;height:50px;line-height:35px;overflow:auto;" id="shifu_flo_001" donone="shifuMouseDownPayStyle(&#39;shifu_flo_001&#39;)">
-    <section style="
-overflow:hidden;">
-        <section style="width:100%;
-text-align: left;
-padding: 0rem 1rem;
-box-sizing: border-box;
-font-size: 0.875rem;
-line-height: 1.5;
-height:auto;
-overflow:hidden;
-color: #000;">
-            <p style="margin:0">
-                {fanyi_content}
-            </p>
-        </section>
-        <svg style="width:100%;
-height:40rem;
-margin-top:-40rem;
-" data-ipaiban-svg="style中的height、margin-top和rect标签中的height的高度保持一致">
-            <rect style="width:100%;
-height:40rem;
-fill: #fff;">
-                <animate attributename="opacity" begin="click" data-ipaiban-begin="begin可以写0s（秒数）或者click（点击触发）" dur="3s" data-ipaiban-dur="dur写几秒，动画就持续执行几秒" from="1" data-ipaiban-from="from写0~1，透明度就是从几开始" to="0" data-ipaiban-to="to写0~1，0为完全透明" fill="freeze" data-ipaiban-fill="fill指是否还原初始状态，freeze为不恢复"></animate>
-            </rect>
-        </svg>
-    </section>
-</section>
 <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
     <br style="margin: 0px; padding: 0px;"/>
 </p>
@@ -186,6 +152,71 @@ fill: #fff;">
     <br style="margin: 0px; padding: 0px;"/>
 </p>
 '''
+
+today_news = '''
+<section style="width:98%;
+border:none;
+border-style:none;
+margin:0rem auto;" id="shifu_qmi_005" donone="shifuMouseDownPayStyle(&#39;shifu_qmi_005&#39;)">
+    <section style="padding: 0.625rem 0px; text-align: center;">
+        <section style="
+display:inline-block;">
+            <section style="text-align: center; letter-spacing: 1.5px; line-height: 1.75em; padding: 0px 6px 0px 12px;">
+                <p style="">
+                    <span style="color:#262626"><span style="font-size: 18px;"><strong>今日动态/News today</strong></span></span>
+                </p>
+            </section>
+            <section style="
+display:flex;
+justify-content:center;align-items:center;
+margin-top:-6px;">
+                <section style="width: 8px; height: 8px; border-radius: 100%; border: 1px solid rgb(225, 133, 1);"></section>
+                <section style="width:100%;">
+                    <section class="ipaiban-bg" style="width:100%;
+height:1px;
+background:rgb(225, 133, 1);"></section>
+                </section>
+                <section style="width: 8px; height: 8px; border-radius: 100%; border: 1px solid rgb(225, 133, 1);" class="ipaiban-bc">
+                    <br/>
+                </section>
+            </section>
+        </section>
+    </section>
+</section>
+'''
+
+yesterday_news = '''
+<section style="width:98%;
+border:none;
+border-style:none;
+margin:0rem auto;" id="shifu_qmi_005" donone="shifuMouseDownPayStyle(&#39;shifu_qmi_005&#39;)">
+    <section style="padding: 0.625rem 0px; text-align: center;">
+        <section style="
+display:inline-block;">
+            <section style="letter-spacing: 1.5px; line-height: 1.75em; padding: 0px 6px 0px 12px;">
+                <p>
+                    <span style="color:#262626"><span style="font-size: 18px;"><strong>昨日动态/News yesterday</strong></span></span>
+                </p>
+            </section>
+            <section style="
+display:flex;
+justify-content:center;align-items:center;
+margin-top:-6px;">
+                <section style="width: 8px; height: 8px; border-radius: 100%; border: 1px solid rgb(225, 133, 1);"></section>
+                <section style="width:100%;">
+                    <section class="ipaiban-bg" style="width:100%;
+height:1px;
+background:rgb(225, 133, 1);"></section>
+                </section>
+                <section style="width: 8px; height: 8px; border-radius: 100%; border: 1px solid rgb(225, 133, 1);" class="ipaiban-bc">
+                    <br/>
+                </section>
+            </section>
+        </section>
+    </section>
+</section>
+'''
+
 con_end = '''
 <p style="margin-top: 0px; margin-bottom: 0px; padding: 5px 5px 5px 10px; clear: both; white-space: normal; min-height: 1em; color: rgb(51, 51, 51); font-size: 17px; letter-spacing: 0.544px; text-align: justify; background-color: rgb(255, 255, 255); line-height: 0.6em; font-family: 微软雅黑; border-left: 3px solid rgb(255, 129, 36);">
     <strong style="margin: 0px; padding: 0px;">精选阅读</strong>
@@ -368,6 +399,80 @@ def translate(con):
     # print result
     return result
 
+# 生成文章
+def generate():
+
+    #定义
+    i = 1;
+    num = ""; title = ""; title_cn = ""
+    article_con = ""
+
+    article_con = today_news
+
+    cur.execute("select * from english_technode where `create_date` = %s", today)
+    data = cur.fetchall();
+
+    cur.execute("select * from english_technode where `create_date` < %s order by id desc limit 10", today)
+    data2 = cur.fetchall();
+
+    cur.execute("select * from english_important_vocabulary where `addtime` >= %s limit 15", today)
+    data3 = cur.fetchall();
+
+    # today news
+    for info in data:
+
+        num = i
+        num = str(num)
+        title = info[1]
+        title = unicodedata.normalize('NFKD', title).encode('ascii','ignore')
+        title_cn = info[2]
+        # title_cn = unicodedata.normalize('NFKD', title_cn).encode('ascii', 'ignore')
+        # print title_cn
+
+        article_con = article_con + con.replace("{num}",num).replace("{title}",title).replace("{con}", title_cn);
+
+        i = i + 1
+
+    article_con = article_con + yesterday_news
+
+    # yesterday news
+    i = 1
+    for info in data2:
+
+        num = i
+        num = str(num)
+        title = info[1]
+        title = unicodedata.normalize('NFKD', title).encode('ascii', 'ignore')
+        title_cn = info[2]
+        # title_cn = unicodedata.normalize('NFKD', title_cn).encode('ascii', 'ignore')
+        # print title_cn
+
+        article_con = article_con + con.replace("{num}", num).replace("{title}", title).replace("{con}", title_cn);
+
+        i = i + 1
+
+    article_con = article_con + sentence_fanyi
+
+    # important vocabulary
+    i = 1
+    for info in data3:
+
+        num = i
+        num = str(num)
+        title = info[1]
+        title = unicodedata.normalize('NFKD', title).encode('ascii', 'ignore')
+        title_cn = info[2]
+        # title_cn = unicodedata.normalize('NFKD', title_cn).encode('ascii', 'ignore')
+        # print title_cn
+
+        article_con = article_con + sentence.replace("{vocabulary_en}",title).replace("{translate_cn}",title_cn)
+
+        i = i + 1
+
+    article_con = article_con + con_line
+
+    return article_con
+
 def main():
 
     # dir = os.path.abspath('.')
@@ -412,8 +517,7 @@ def main():
                 # print result['trans'][0]
 
                 # 查询是不是已经存在
-                cur.execute(
-                    "select * from english_technnode where `en` = '" + info + "'")
+                cur.execute("select * from english_technode where `en` = %s", info)
                 get_read = cur.fetchone()
 
                 if get_read is None:
@@ -479,18 +583,21 @@ def main():
         'INSERT INTO english_important_vocabulary (`word`,`interpret`) values(%s,%s)', content_vocabulary)
     conn.commit()
 
+    #调用数据
+    article_con = generate()
+
     # 写入文件
-    # txt_name = 'daily_technode_' + today + ".txt"
-    # f = open(txt_name, "a+")
-    # f.truncate()
-    #
-    # f.write(title)
-    #
-    # f.write(article_con)
-    #
-    # f.write(con_end)
-    #
-    # f.close()
+    txt_name = 'daily_technode_' + today + ".txt"
+    f = open(txt_name, "a+")
+    f.truncate()
+
+    f.write(title)
+
+    f.write(article_con)
+
+    f.write(con_end)
+
+    f.close()
 
     print "SUCCESS"
 
