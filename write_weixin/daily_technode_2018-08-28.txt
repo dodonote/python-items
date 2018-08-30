@@ -1,0 +1,610 @@
+
+<p style="text-align:center">
+    <img class="" data-ratio="0.11875" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/ULGBRicThgZvPDhSic2eliclib6tNzP3zNKIIgIq4mShd7e0gKcYVibcenbEYfgGqoD7xw8oq7d8g9b9rqHFujiaQzuw/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" data-type="png" data-w="640" title="https://mmbiz.qpic.cn/mmbiz_jpg/ULGBRicThgZvPDhSic2eliclib6tNzP3zNKIIgIq4mShd7e0gKcYVibcenbEYfgGqoD7xw8oq7d8g9b9rqHFujiaQzuw/640?wx_fmt=jpeg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" src="https://mmbiz.qpic.cn/mmbiz_jpg/ULGBRicThgZvPDhSic2eliclib6tNzP3zNKIIgIq4mShd7e0gKcYVibcenbEYfgGqoD7xw8oq7d8g9b9rqHFujiaQzuw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" data-fail="0" style="margin: 0px; padding: 0px; height: auto !important; width: auto !important; visibility: visible !important;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<section class="" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <section style="margin: 0px; padding: 0px; width: 670px; display: -webkit-flex; justify-content: center;">
+        <section style="margin: 0px; padding: 0px; width: 30px;">
+            <section style="margin: 0px; padding: 0px; width: 30px; background-color: rgb(225, 133, 1);">
+                <img class="" data-ratio="0.9814814814814815" data-src="https://mmbiz.qpic.cn/mmbiz_png/ULGBRicThgZu6e70gUKLbh6mHCCuACuynp8thxwG3mrgUibwuAKkO1sYsTHfENibR8kfuwV3FZOmSMoib20KaI5FAw/640?wx_fmt=png" data-type="png" data-w="54" width="100%" _width="30px" src="https://image.ipaiban.com/upload-ueditor-image-20180709-1531110149158074891.png" data-fail="0" style="margin: 0px; padding: 0px; display: block; height: auto !important; visibility: visible !important; width: 30px !important;"/>
+            </section>
+        </section>
+        <section style="margin: 0px 5px; padding: 0px;">
+            <section style="margin: 0px; padding: 0px 15px; line-height: 30px; color: rgb(255, 255, 255); background-color: rgb(225, 133, 1);">
+                <span style="margin: 0px; padding: 0px; font-size: 20px;"><strong style="margin: 0px; padding: 0px;">英文简报</strong></span>
+            </section>
+        </section>
+        <section style="margin: 0px; padding: 0px; width: 30px;">
+            <section style="margin: 0px; padding: 0px; width: 30px; background-color: rgb(225, 133, 1);">
+                <img class="" data-ratio="0.9814814814814815" data-src="https://mmbiz.qpic.cn/mmbiz_png/ULGBRicThgZu6e70gUKLbh6mHCCuACuynicN2ZebSp2DQn93icSiaiavLf88SdM08Lre7Bd6BNzyTUfkUoIxiczrO1gA/640?wx_fmt=png" data-type="png" data-w="54" width="100%" _width="30px" src="https://image.ipaiban.com/upload-ueditor-image-20180709-1531110149230026104.png" data-fail="0" style="margin: 0px; padding: 0px; display: block; height: auto !important; visibility: visible !important; width: 30px !important;"/>
+            </section>
+        </section>
+    </section>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br/>
+</p>
+<section class="" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <section data-by="96weixin" style="margin: 0px; padding: 0px;">
+        <section style="margin: 10px 0px; padding: 0px; text-align: center;">
+            <section style="margin: 0px; padding: 2px 6px 6px; color: rgb(255, 255, 255); display: inline-block; vertical-align: top; min-width: 4.5em; border-radius: 0.6em; background-color: rgb(255, 129, 36);">
+                08月
+                <section style="margin: 0px; padding: 0px; border-radius: 0.3em; font-size: 28px; line-height: 1.3em; color: rgb(255, 129, 36); background-color: rgb(255, 255, 255);">
+                    28
+                </section>
+            </section>
+        </section>
+    </section>
+</section>
+<section class="" data-tools="135编辑器" data-id="85640" data-color="#ff8124" data-custom="#ff8124" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <p style="margin-top: 0px; margin-bottom: 0px; padding: 2px 0px 0px 40px; clear: both; min-height: 1em; line-height: normal;">
+        <br/>
+    </p>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+
+<section style="width:98%;
+border:none;
+border-style:none;
+margin:0rem auto;" id="shifu_qmi_005" donone="shifuMouseDownPayStyle(&#39;shifu_qmi_005&#39;)">
+    <section style="padding: 0.625rem 0px; text-align: center;">
+        <section style="
+display:inline-block;">
+            <section style="text-align: center; letter-spacing: 1.5px; line-height: 1.75em; padding: 0px 6px 0px 12px;">
+                <p style="">
+                    <span style="color:#262626"><span style="font-size: 18px;"><strong>今日动态/News today</strong></span></span>
+                </p>
+            </section>
+            <section style="
+display:flex;
+justify-content:center;align-items:center;
+margin-top:-6px;">
+                <section style="width: 8px; height: 8px; border-radius: 100%; border: 1px solid rgb(225, 133, 1);"></section>
+                <section style="width:100%;">
+                    <section class="ipaiban-bg" style="width:100%;
+height:1px;
+background:rgb(225, 133, 1);"></section>
+                </section>
+                <section style="width: 8px; height: 8px; border-radius: 100%; border: 1px solid rgb(225, 133, 1);" class="ipaiban-bc">
+                    <br/>
+                </section>
+            </section>
+        </section>
+    </section>
+</section>
+
+<section class="" data-color="#ff8124" data-custom="#ff8124" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <section style="margin: 0px; padding: 0px; display: inline-block; float: left; color: rgb(255, 255, 255); border-color: rgb(255, 129, 36); background-color: rgb(255, 129, 36);">
+        <section style="margin: 0px; padding: 5px 8px; display: inline-block; vertical-align: middle; color: inherit;">
+            <section style="margin: 0px; padding: 0px; color: inherit;">
+                <strong style="margin: 0px; padding: 0px; color: inherit;">1</strong>
+            </section>
+        </section>
+    </section>
+    <section style="margin: 8px 0px 0px; padding: 0px; border-left: 8px solid rgb(255, 129, 36); border-right-width: 0px; border-right-color: rgb(255, 129, 36); display: inline-block; float: left; color: inherit; border-bottom: 8px solid transparent !important; border-top: 8px solid transparent !important;"></section>
+    <section style="margin: 0px; padding: 2px 0px 0px 40px; font-size: 18px;">
+        <span style="margin: 0px; padding: 0px; font-family: 微软雅黑; color: rgb(62, 62, 62); font-size: 16px;">Leaked data from Chinese hotel chain may affect 130 million customers</span>
+    </section>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 14px; color: rgb(216, 216, 216);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>中国连锁酒店泄漏数据可能影响1亿3000万名客户</em></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<section class="" data-color="#ff8124" data-custom="#ff8124" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <section style="margin: 0px; padding: 0px; display: inline-block; float: left; color: rgb(255, 255, 255); border-color: rgb(255, 129, 36); background-color: rgb(255, 129, 36);">
+        <section style="margin: 0px; padding: 5px 8px; display: inline-block; vertical-align: middle; color: inherit;">
+            <section style="margin: 0px; padding: 0px; color: inherit;">
+                <strong style="margin: 0px; padding: 0px; color: inherit;">2</strong>
+            </section>
+        </section>
+    </section>
+    <section style="margin: 8px 0px 0px; padding: 0px; border-left: 8px solid rgb(255, 129, 36); border-right-width: 0px; border-right-color: rgb(255, 129, 36); display: inline-block; float: left; color: inherit; border-bottom: 8px solid transparent !important; border-top: 8px solid transparent !important;"></section>
+    <section style="margin: 0px; padding: 2px 0px 0px 40px; font-size: 18px;">
+        <span style="margin: 0px; padding: 0px; font-family: 微软雅黑; color: rgb(62, 62, 62); font-size: 16px;">Xpeng said to be behind its production schedule</span>
+    </section>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 14px; color: rgb(216, 216, 216);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>Xpeng说要落后于生产进度</em></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<section class="" data-color="#ff8124" data-custom="#ff8124" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <section style="margin: 0px; padding: 0px; display: inline-block; float: left; color: rgb(255, 255, 255); border-color: rgb(255, 129, 36); background-color: rgb(255, 129, 36);">
+        <section style="margin: 0px; padding: 5px 8px; display: inline-block; vertical-align: middle; color: inherit;">
+            <section style="margin: 0px; padding: 0px; color: inherit;">
+                <strong style="margin: 0px; padding: 0px; color: inherit;">3</strong>
+            </section>
+        </section>
+    </section>
+    <section style="margin: 8px 0px 0px; padding: 0px; border-left: 8px solid rgb(255, 129, 36); border-right-width: 0px; border-right-color: rgb(255, 129, 36); display: inline-block; float: left; color: inherit; border-bottom: 8px solid transparent !important; border-top: 8px solid transparent !important;"></section>
+    <section style="margin: 0px; padding: 2px 0px 0px 40px; font-size: 18px;">
+        <span style="margin: 0px; padding: 0px; font-family: 微软雅黑; color: rgb(62, 62, 62); font-size: 16px;">Didi summoned by authorities in ten cities over murder case</span>
+    </section>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 14px; color: rgb(216, 216, 216);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>十个城市当局被控谋杀案</em></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<section class="" data-color="#ff8124" data-custom="#ff8124" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <section style="margin: 0px; padding: 0px; display: inline-block; float: left; color: rgb(255, 255, 255); border-color: rgb(255, 129, 36); background-color: rgb(255, 129, 36);">
+        <section style="margin: 0px; padding: 5px 8px; display: inline-block; vertical-align: middle; color: inherit;">
+            <section style="margin: 0px; padding: 0px; color: inherit;">
+                <strong style="margin: 0px; padding: 0px; color: inherit;">4</strong>
+            </section>
+        </section>
+    </section>
+    <section style="margin: 8px 0px 0px; padding: 0px; border-left: 8px solid rgb(255, 129, 36); border-right-width: 0px; border-right-color: rgb(255, 129, 36); display: inline-block; float: left; color: inherit; border-bottom: 8px solid transparent !important; border-top: 8px solid transparent !important;"></section>
+    <section style="margin: 0px; padding: 2px 0px 0px 40px; font-size: 18px;">
+        <span style="margin: 0px; padding: 0px; font-family: 微软雅黑; color: rgb(62, 62, 62); font-size: 16px;">Briefing: Three Chinese crypto mining gear makers prepare to go public</span>
+    </section>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 14px; color: rgb(216, 216, 216);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>简报：三家中国加密采矿机准备上市</em></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<section class="" data-color="#ff8124" data-custom="#ff8124" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <section style="margin: 0px; padding: 0px; display: inline-block; float: left; color: rgb(255, 255, 255); border-color: rgb(255, 129, 36); background-color: rgb(255, 129, 36);">
+        <section style="margin: 0px; padding: 5px 8px; display: inline-block; vertical-align: middle; color: inherit;">
+            <section style="margin: 0px; padding: 0px; color: inherit;">
+                <strong style="margin: 0px; padding: 0px; color: inherit;">5</strong>
+            </section>
+        </section>
+    </section>
+    <section style="margin: 8px 0px 0px; padding: 0px; border-left: 8px solid rgb(255, 129, 36); border-right-width: 0px; border-right-color: rgb(255, 129, 36); display: inline-block; float: left; color: inherit; border-bottom: 8px solid transparent !important; border-top: 8px solid transparent !important;"></section>
+    <section style="margin: 0px; padding: 2px 0px 0px 40px; font-size: 18px;">
+        <span style="margin: 0px; padding: 0px; font-family: 微软雅黑; color: rgb(62, 62, 62); font-size: 16px;">Briefing: Online entertainment platform Bilibili reports revenue surge despite online content clean-up</span>
+    </section>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 14px; color: rgb(216, 216, 216);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>在线娱乐平台毕丽碧利报道尽管在线内容清理工作收入剧增</em></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<section class="" data-color="#ff8124" data-custom="#ff8124" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <section style="margin: 0px; padding: 0px; display: inline-block; float: left; color: rgb(255, 255, 255); border-color: rgb(255, 129, 36); background-color: rgb(255, 129, 36);">
+        <section style="margin: 0px; padding: 5px 8px; display: inline-block; vertical-align: middle; color: inherit;">
+            <section style="margin: 0px; padding: 0px; color: inherit;">
+                <strong style="margin: 0px; padding: 0px; color: inherit;">6</strong>
+            </section>
+        </section>
+    </section>
+    <section style="margin: 8px 0px 0px; padding: 0px; border-left: 8px solid rgb(255, 129, 36); border-right-width: 0px; border-right-color: rgb(255, 129, 36); display: inline-block; float: left; color: inherit; border-bottom: 8px solid transparent !important; border-top: 8px solid transparent !important;"></section>
+    <section style="margin: 0px; padding: 2px 0px 0px 40px; font-size: 18px;">
+        <span style="margin: 0px; padding: 0px; font-family: 微软雅黑; color: rgb(62, 62, 62); font-size: 16px;">Briefing: Downloads of police apps increase following death of Didi passenger</span>
+    </section>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 14px; color: rgb(216, 216, 216);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>简报：Didi乘客死亡后警察应用程序下载量增加</em></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<section class="" data-color="#ff8124" data-custom="#ff8124" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <section style="margin: 0px; padding: 0px; display: inline-block; float: left; color: rgb(255, 255, 255); border-color: rgb(255, 129, 36); background-color: rgb(255, 129, 36);">
+        <section style="margin: 0px; padding: 5px 8px; display: inline-block; vertical-align: middle; color: inherit;">
+            <section style="margin: 0px; padding: 0px; color: inherit;">
+                <strong style="margin: 0px; padding: 0px; color: inherit;">7</strong>
+            </section>
+        </section>
+    </section>
+    <section style="margin: 8px 0px 0px; padding: 0px; border-left: 8px solid rgb(255, 129, 36); border-right-width: 0px; border-right-color: rgb(255, 129, 36); display: inline-block; float: left; color: inherit; border-bottom: 8px solid transparent !important; border-top: 8px solid transparent !important;"></section>
+    <section style="margin: 0px; padding: 2px 0px 0px 40px; font-size: 18px;">
+        <span style="margin: 0px; padding: 0px; font-family: 微软雅黑; color: rgb(62, 62, 62); font-size: 16px;">Briefing: Same-city delivery service becomes a unicorn after $60 million Series D</span>
+    </section>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 14px; color: rgb(216, 216, 216);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>简介：同一城市交付服务成为独角兽后6000万美元系列D</em></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<section class="" data-color="#ff8124" data-custom="#ff8124" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <section style="margin: 0px; padding: 0px; display: inline-block; float: left; color: rgb(255, 255, 255); border-color: rgb(255, 129, 36); background-color: rgb(255, 129, 36);">
+        <section style="margin: 0px; padding: 5px 8px; display: inline-block; vertical-align: middle; color: inherit;">
+            <section style="margin: 0px; padding: 0px; color: inherit;">
+                <strong style="margin: 0px; padding: 0px; color: inherit;">8</strong>
+            </section>
+        </section>
+    </section>
+    <section style="margin: 8px 0px 0px; padding: 0px; border-left: 8px solid rgb(255, 129, 36); border-right-width: 0px; border-right-color: rgb(255, 129, 36); display: inline-block; float: left; color: inherit; border-bottom: 8px solid transparent !important; border-top: 8px solid transparent !important;"></section>
+    <section style="margin: 0px; padding: 2px 0px 0px 40px; font-size: 18px;">
+        <span style="margin: 0px; padding: 0px; font-family: 微软雅黑; color: rgb(62, 62, 62); font-size: 16px;">Briefing: Qudian shares plummet as Ant Financial to end partnership by August</span>
+    </section>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 14px; color: rgb(216, 216, 216);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>简报：Quead股价在8月份以蚂蚁金融终结合作</em></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<section style="width:98%;
+border:none;
+border-style:none;
+margin:0rem auto;" id="shifu_qmi_005" donone="shifuMouseDownPayStyle(&#39;shifu_qmi_005&#39;)">
+    <section style="padding: 0.625rem 0px; text-align: center;">
+        <section style="
+display:inline-block;">
+            <section style="letter-spacing: 1.5px; line-height: 1.75em; padding: 0px 6px 0px 12px;">
+                <p>
+                    <span style="color:#262626"><span style="font-size: 18px;"><strong>昨日动态/News yesterday</strong></span></span>
+                </p>
+            </section>
+            <section style="
+display:flex;
+justify-content:center;align-items:center;
+margin-top:-6px;">
+                <section style="width: 8px; height: 8px; border-radius: 100%; border: 1px solid rgb(225, 133, 1);"></section>
+                <section style="width:100%;">
+                    <section class="ipaiban-bg" style="width:100%;
+height:1px;
+background:rgb(225, 133, 1);"></section>
+                </section>
+                <section style="width: 8px; height: 8px; border-radius: 100%; border: 1px solid rgb(225, 133, 1);" class="ipaiban-bc">
+                    <br/>
+                </section>
+            </section>
+        </section>
+    </section>
+</section>
+
+<section class="" data-color="#ff8124" data-custom="#ff8124" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <section style="margin: 0px; padding: 0px; display: inline-block; float: left; color: rgb(255, 255, 255); border-color: rgb(255, 129, 36); background-color: rgb(255, 129, 36);">
+        <section style="margin: 0px; padding: 5px 8px; display: inline-block; vertical-align: middle; color: inherit;">
+            <section style="margin: 0px; padding: 0px; color: inherit;">
+                <strong style="margin: 0px; padding: 0px; color: inherit;">1</strong>
+            </section>
+        </section>
+    </section>
+    <section style="margin: 8px 0px 0px; padding: 0px; border-left: 8px solid rgb(255, 129, 36); border-right-width: 0px; border-right-color: rgb(255, 129, 36); display: inline-block; float: left; color: inherit; border-bottom: 8px solid transparent !important; border-top: 8px solid transparent !important;"></section>
+    <section style="margin: 0px; padding: 2px 0px 0px 40px; font-size: 18px;">
+        <span style="margin: 0px; padding: 0px; font-family: 微软雅黑; color: rgb(62, 62, 62); font-size: 16px;">Didi begins recruiting drivers in Mexico City</span>
+    </section>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 14px; color: rgb(216, 216, 216);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>迪迪开始在墨西哥城招聘司机</em></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<section class="" data-color="#ff8124" data-custom="#ff8124" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <section style="margin: 0px; padding: 0px; display: inline-block; float: left; color: rgb(255, 255, 255); border-color: rgb(255, 129, 36); background-color: rgb(255, 129, 36);">
+        <section style="margin: 0px; padding: 5px 8px; display: inline-block; vertical-align: middle; color: inherit;">
+            <section style="margin: 0px; padding: 0px; color: inherit;">
+                <strong style="margin: 0px; padding: 0px; color: inherit;">2</strong>
+            </section>
+        </section>
+    </section>
+    <section style="margin: 8px 0px 0px; padding: 0px; border-left: 8px solid rgb(255, 129, 36); border-right-width: 0px; border-right-color: rgb(255, 129, 36); display: inline-block; float: left; color: inherit; border-bottom: 8px solid transparent !important; border-top: 8px solid transparent !important;"></section>
+    <section style="margin: 0px; padding: 2px 0px 0px 40px; font-size: 18px;">
+        <span style="margin: 0px; padding: 0px; font-family: 微软雅黑; color: rgb(62, 62, 62); font-size: 16px;">Three billion items of user data stolen from China's biggest tech companies</span>
+    </section>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 14px; color: rgb(216, 216, 216);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>中国最大科技公司的三十亿项用户数据被盗</em></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<section class="" data-color="#ff8124" data-custom="#ff8124" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <section style="margin: 0px; padding: 0px; display: inline-block; float: left; color: rgb(255, 255, 255); border-color: rgb(255, 129, 36); background-color: rgb(255, 129, 36);">
+        <section style="margin: 0px; padding: 5px 8px; display: inline-block; vertical-align: middle; color: inherit;">
+            <section style="margin: 0px; padding: 0px; color: inherit;">
+                <strong style="margin: 0px; padding: 0px; color: inherit;">3</strong>
+            </section>
+        </section>
+    </section>
+    <section style="margin: 8px 0px 0px; padding: 0px; border-left: 8px solid rgb(255, 129, 36); border-right-width: 0px; border-right-color: rgb(255, 129, 36); display: inline-block; float: left; color: inherit; border-bottom: 8px solid transparent !important; border-top: 8px solid transparent !important;"></section>
+    <section style="margin: 0px; padding: 2px 0px 0px 40px; font-size: 18px;">
+        <span style="margin: 0px; padding: 0px; font-family: 微软雅黑; color: rgb(62, 62, 62); font-size: 16px;">Appliance maker Gree formally enters the chip game</span>
+    </section>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 14px; color: rgb(216, 216, 216);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>家电制造商格力正式进入芯片游戏</em></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<section class="" data-color="#ff8124" data-custom="#ff8124" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <section style="margin: 0px; padding: 0px; display: inline-block; float: left; color: rgb(255, 255, 255); border-color: rgb(255, 129, 36); background-color: rgb(255, 129, 36);">
+        <section style="margin: 0px; padding: 5px 8px; display: inline-block; vertical-align: middle; color: inherit;">
+            <section style="margin: 0px; padding: 0px; color: inherit;">
+                <strong style="margin: 0px; padding: 0px; color: inherit;">4</strong>
+            </section>
+        </section>
+    </section>
+    <section style="margin: 8px 0px 0px; padding: 0px; border-left: 8px solid rgb(255, 129, 36); border-right-width: 0px; border-right-color: rgb(255, 129, 36); display: inline-block; float: left; color: inherit; border-bottom: 8px solid transparent !important; border-top: 8px solid transparent !important;"></section>
+    <section style="margin: 0px; padding: 2px 0px 0px 40px; font-size: 18px;">
+        <span style="margin: 0px; padding: 0px; font-family: 微软雅黑; color: rgb(62, 62, 62); font-size: 16px;">US tech giants say Chinas cybersecurity law is more crucial to business than Made in China 2025</span>
+    </section>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 14px; color: rgb(216, 216, 216);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>美国科技巨头说中国的网络安全法比中国制造业更重要</em></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<section class="" data-color="#ff8124" data-custom="#ff8124" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <section style="margin: 0px; padding: 0px; display: inline-block; float: left; color: rgb(255, 255, 255); border-color: rgb(255, 129, 36); background-color: rgb(255, 129, 36);">
+        <section style="margin: 0px; padding: 5px 8px; display: inline-block; vertical-align: middle; color: inherit;">
+            <section style="margin: 0px; padding: 0px; color: inherit;">
+                <strong style="margin: 0px; padding: 0px; color: inherit;">5</strong>
+            </section>
+        </section>
+    </section>
+    <section style="margin: 8px 0px 0px; padding: 0px; border-left: 8px solid rgb(255, 129, 36); border-right-width: 0px; border-right-color: rgb(255, 129, 36); display: inline-block; float: left; color: inherit; border-bottom: 8px solid transparent !important; border-top: 8px solid transparent !important;"></section>
+    <section style="margin: 0px; padding: 2px 0px 0px 40px; font-size: 18px;">
+        <span style="margin: 0px; padding: 0px; font-family: 微软雅黑; color: rgb(62, 62, 62); font-size: 16px;">China crackdowns on cryptocurrency again by removing content from WeChat</span>
+    </section>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 14px; color: rgb(216, 216, 216);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>中国通过删除微信中的内容再次打击隐秘行为</em></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<section class="" data-color="#ff8124" data-custom="#ff8124" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <section style="margin: 0px; padding: 0px; display: inline-block; float: left; color: rgb(255, 255, 255); border-color: rgb(255, 129, 36); background-color: rgb(255, 129, 36);">
+        <section style="margin: 0px; padding: 5px 8px; display: inline-block; vertical-align: middle; color: inherit;">
+            <section style="margin: 0px; padding: 0px; color: inherit;">
+                <strong style="margin: 0px; padding: 0px; color: inherit;">6</strong>
+            </section>
+        </section>
+    </section>
+    <section style="margin: 8px 0px 0px; padding: 0px; border-left: 8px solid rgb(255, 129, 36); border-right-width: 0px; border-right-color: rgb(255, 129, 36); display: inline-block; float: left; color: inherit; border-bottom: 8px solid transparent !important; border-top: 8px solid transparent !important;"></section>
+    <section style="margin: 0px; padding: 2px 0px 0px 40px; font-size: 18px;">
+        <span style="margin: 0px; padding: 0px; font-family: 微软雅黑; color: rgb(62, 62, 62); font-size: 16px;">LinkedIns China rival Maimai raises $200 million ahead of US IPO</span>
+    </section>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 14px; color: rgb(216, 216, 216);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>LinkedIn的中国对手迈迈在美国IPO前筹集了2亿美元</em></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<section class="" data-color="#ff8124" data-custom="#ff8124" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <section style="margin: 0px; padding: 0px; display: inline-block; float: left; color: rgb(255, 255, 255); border-color: rgb(255, 129, 36); background-color: rgb(255, 129, 36);">
+        <section style="margin: 0px; padding: 5px 8px; display: inline-block; vertical-align: middle; color: inherit;">
+            <section style="margin: 0px; padding: 0px; color: inherit;">
+                <strong style="margin: 0px; padding: 0px; color: inherit;">7</strong>
+            </section>
+        </section>
+    </section>
+    <section style="margin: 8px 0px 0px; padding: 0px; border-left: 8px solid rgb(255, 129, 36); border-right-width: 0px; border-right-color: rgb(255, 129, 36); display: inline-block; float: left; color: inherit; border-bottom: 8px solid transparent !important; border-top: 8px solid transparent !important;"></section>
+    <section style="margin: 0px; padding: 2px 0px 0px 40px; font-size: 18px;">
+        <span style="margin: 0px; padding: 0px; font-family: 微软雅黑; color: rgb(62, 62, 62); font-size: 16px;">Chinas audio giant Ximalaya FM rumored to prepare for IPO</span>
+    </section>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 14px; color: rgb(216, 216, 216);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>中国音响巨头西玛拉雅FM谣言准备IPO</em></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<section class="" data-color="#ff8124" data-custom="#ff8124" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <section style="margin: 0px; padding: 0px; display: inline-block; float: left; color: rgb(255, 255, 255); border-color: rgb(255, 129, 36); background-color: rgb(255, 129, 36);">
+        <section style="margin: 0px; padding: 5px 8px; display: inline-block; vertical-align: middle; color: inherit;">
+            <section style="margin: 0px; padding: 0px; color: inherit;">
+                <strong style="margin: 0px; padding: 0px; color: inherit;">8</strong>
+            </section>
+        </section>
+    </section>
+    <section style="margin: 8px 0px 0px; padding: 0px; border-left: 8px solid rgb(255, 129, 36); border-right-width: 0px; border-right-color: rgb(255, 129, 36); display: inline-block; float: left; color: inherit; border-bottom: 8px solid transparent !important; border-top: 8px solid transparent !important;"></section>
+    <section style="margin: 0px; padding: 2px 0px 0px 40px; font-size: 18px;">
+        <span style="margin: 0px; padding: 0px; font-family: 微软雅黑; color: rgb(62, 62, 62); font-size: 16px;">ByteDance and Intel set up joint AI lab</span>
+    </section>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 14px; color: rgb(216, 216, 216);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>BytStand和英特尔成立了联合人工智能实验室</em></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<section class="" data-color="#ff8124" data-custom="#ff8124" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <section style="margin: 0px; padding: 0px; display: inline-block; float: left; color: rgb(255, 255, 255); border-color: rgb(255, 129, 36); background-color: rgb(255, 129, 36);">
+        <section style="margin: 0px; padding: 5px 8px; display: inline-block; vertical-align: middle; color: inherit;">
+            <section style="margin: 0px; padding: 0px; color: inherit;">
+                <strong style="margin: 0px; padding: 0px; color: inherit;">9</strong>
+            </section>
+        </section>
+    </section>
+    <section style="margin: 8px 0px 0px; padding: 0px; border-left: 8px solid rgb(255, 129, 36); border-right-width: 0px; border-right-color: rgb(255, 129, 36); display: inline-block; float: left; color: inherit; border-bottom: 8px solid transparent !important; border-top: 8px solid transparent !important;"></section>
+    <section style="margin: 0px; padding: 2px 0px 0px 40px; font-size: 18px;">
+        <span style="margin: 0px; padding: 0px; font-family: 微软雅黑; color: rgb(62, 62, 62); font-size: 16px;">Ant Financial delays IPO plans again</span>
+    </section>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 14px; color: rgb(216, 216, 216);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>蚂蚁金融再次推迟IPO计划</em></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<section class="" data-color="#ff8124" data-custom="#ff8124" style="margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <section style="margin: 0px; padding: 0px; display: inline-block; float: left; color: rgb(255, 255, 255); border-color: rgb(255, 129, 36); background-color: rgb(255, 129, 36);">
+        <section style="margin: 0px; padding: 5px 8px; display: inline-block; vertical-align: middle; color: inherit;">
+            <section style="margin: 0px; padding: 0px; color: inherit;">
+                <strong style="margin: 0px; padding: 0px; color: inherit;">10</strong>
+            </section>
+        </section>
+    </section>
+    <section style="margin: 8px 0px 0px; padding: 0px; border-left: 8px solid rgb(255, 129, 36); border-right-width: 0px; border-right-color: rgb(255, 129, 36); display: inline-block; float: left; color: inherit; border-bottom: 8px solid transparent !important; border-top: 8px solid transparent !important;"></section>
+    <section style="margin: 0px; padding: 2px 0px 0px 40px; font-size: 18px;">
+        <span style="margin: 0px; padding: 0px; font-family: 微软雅黑; color: rgb(62, 62, 62); font-size: 16px;">TouchPal keyboard developer CooTek files for a $100 million IPO</span>
+    </section>
+</section>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="font-size: 14px; color: rgb(216, 216, 216);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>ToukPad键盘开发者CooTek档案1亿美元IPO</em></span>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 5px 5px 5px 10px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255); line-height: 0.6em; font-family: 微软雅黑; border-left: 3px solid rgb(255, 129, 36);">
+    <strong style="margin: 0px; padding: 0px;">重点词汇</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="margin: 0px; padding: 0px; color: rgb(0, 112, 192);">Leaked&nbsp;</span><span style="margin: 0px; padding: 0px; color: rgb(67, 149, 255);">&nbsp;</span>漏( leak的过去式和过去分词 ),渗入，漏出,使泄露
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="margin: 0px; padding: 0px; color: rgb(0, 112, 192);">hotel&nbsp;</span><span style="margin: 0px; padding: 0px; color: rgb(67, 149, 255);">&nbsp;</span>旅馆，宾馆，酒店，饭店,使…在饭店下榻,进行旅馆式办公
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="margin: 0px; padding: 0px; color: rgb(0, 112, 192);">affect&nbsp;</span><span style="margin: 0px; padding: 0px; color: rgb(67, 149, 255);">&nbsp;</span>影响,假装,感动,侵袭,感情，情感，心情,情绪反应
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="margin: 0px; padding: 0px; color: rgb(0, 112, 192);">behind&nbsp;</span><span style="margin: 0px; padding: 0px; color: rgb(67, 149, 255);">&nbsp;</span>在…的后面,支持,在身后,落后于,在后面,向后,在后面较远处,〈口〉屁股
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="margin: 0px; padding: 0px; color: rgb(0, 112, 192);">production schedule&nbsp;</span><span style="margin: 0px; padding: 0px; color: rgb(67, 149, 255);">&nbsp;</span>生产进度表，生产计划，产品细明表
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="margin: 0px; padding: 0px; color: rgb(0, 112, 192);">summoned&nbsp;</span><span style="margin: 0px; padding: 0px; color: rgb(67, 149, 255);">&nbsp;</span>召唤,传唤( summon的过去式和过去分词 ),传讯,鼓起
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="margin: 0px; padding: 0px; color: rgb(0, 112, 192);">authorities&nbsp;</span><span style="margin: 0px; padding: 0px; color: rgb(67, 149, 255);">&nbsp;</span>当局，权力，权威,权威( authority的名词复数 ),权力,学术权威,当权者
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="margin: 0px; padding: 0px; color: rgb(0, 112, 192);">ten&nbsp;</span><span style="margin: 0px; padding: 0px; color: rgb(67, 149, 255);">&nbsp;</span>十，十个,第十,十个人,十点钟,十岁,十元纸币
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="margin: 0px; padding: 0px; color: rgb(0, 112, 192);">cities&nbsp;</span><span style="margin: 0px; padding: 0px; color: rgb(67, 149, 255);">&nbsp;</span>城市( city的名词复数 ),全市居民,特许市,特权市
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="margin: 0px; padding: 0px; color: rgb(0, 112, 192);">murder case&nbsp;</span><span style="margin: 0px; padding: 0px; color: rgb(67, 149, 255);">&nbsp;</span>谋杀案
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="margin: 0px; padding: 0px; color: rgb(0, 112, 192);">Briefing&nbsp;</span><span style="margin: 0px; padding: 0px; color: rgb(67, 149, 255);">&nbsp;</span>简报，简要情况,简要指示,向…介绍基本情况(brief的现在分词)
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="margin: 0px; padding: 0px; color: rgb(0, 112, 192);">crypto&nbsp;</span><span style="margin: 0px; padding: 0px; color: rgb(67, 149, 255);">&nbsp;</span>秘密成员
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="margin: 0px; padding: 0px; color: rgb(0, 112, 192);">prepare&nbsp;</span><span style="margin: 0px; padding: 0px; color: rgb(67, 149, 255);">&nbsp;</span>准备,预备,配备,使有准备,筹备，进行各项准备工作,做好思想准备,作出，制订,锻炼，训练
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="margin: 0px; padding: 0px; color: rgb(0, 112, 192);">go public&nbsp;</span><span style="margin: 0px; padding: 0px; color: rgb(67, 149, 255);">&nbsp;</span>首次对外公开出售，首次公开上市,发行股票
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <span style="margin: 0px; padding: 0px; color: rgb(0, 112, 192);">reports&nbsp;</span><span style="margin: 0px; padding: 0px; color: rgb(67, 149, 255);">&nbsp;</span>报告( report的名词复数 ),成绩报告单,传闻,流言蜚语
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); font-family: -apple-system-font, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei UI&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: 17px; letter-spacing: 0.544px; text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 5px 5px 5px 10px; clear: both; white-space: normal; min-height: 1em; color: rgb(51, 51, 51); font-size: 17px; letter-spacing: 0.544px; text-align: justify; background-color: rgb(255, 255, 255); line-height: 0.6em; font-family: 微软雅黑; border-left: 3px solid rgb(255, 129, 36);">
+    <strong style="margin: 0px; padding: 0px;">精选阅读</strong>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483852&idx=1&sn=5e91555bbc075738ca2b675309431f84&chksm=fcde92a5cba91bb3a3839a50daf70e052ab5f45a61903f930a080cbd942d51c2a76c76aa50e6&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;"></a>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483897&idx=2&sn=558dac52bb6ff59656c76a96973ef4c5&chksm=fcde9290cba91b863d86c3d41efb17699cf1fe4a2a94a895b9ce9bd188ba24679231866f06eb&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">【词汇】英语词汇第22课</a><br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483811&idx=4&sn=1ce07da4a5c6a5fceadf35c401b520ee&chksm=fcde92cacba91bdcc54b1c5360ce2caa40e39e36d309cca76b80c7fa432b1efb5c41c8f218e0&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">【福利】更新《剑指offer秋招笔记》资料直接下载</a><br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal;">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483801&idx=4&sn=f67da2b252d54d9619c4b9e7d57296b4&chksm=fcde92f0cba91be6dd505ed27e1f672e3d281aacd457be4695b8cee442d34d086beb15e31e96&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">【福利】资料 | 一份收藏量超过两万多的计算机科学学习笔记</a><br style="margin: 0px; padding: 0px;"/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em; color: rgb(51, 51, 51);">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483819&idx=4&sn=d8a869c37694def2f10b0c70b1ea0629&chksm=fcde92c2cba91bd4d6a84c62ba75a13034f8e0c466baf7989ae95055ac6bfa0366ee19279a7a&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(87, 107, 149); text-decoration-line: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">【福利】20的多个实用小工具 快速提升你的工作效率</a>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em; color: rgb(51, 51, 51);">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483783&idx=4&sn=20d9f2eca2ceb1be374786ec381f8044&chksm=fcde92eecba91bf8228fa112188b5bef4c0fb3c0ba748ad15d7a8cd0452aba329ce144ad28cd&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(96, 127, 166); text-decoration-line: none;">【福利】英语视频教程免费发放</a>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em; color: rgb(51, 51, 51);">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483697&idx=1&sn=2209a5aeadb4a26b6d5d3607fc419cdb&chksm=fcde9258cba91b4e7d3a6fecbfd784a470ced0f85226904aae25af4ebdcd4ef54170a5606378&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(87, 107, 149); text-decoration-line: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">【英语】为什么我们要学习英语？</a>
+</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em; color: rgb(51, 51, 51);">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzU3MTQ1OTA3OA==&mid=2247483661&idx=1&sn=44213e9fcd9d19ba54843bbff3f8e720&chksm=fcde9264cba91b72ce573929626d597407b1f466d9dd18faf148bd4dee42c6a4f03fa263939a&scene=21#wechat_redirect" target="_blank" style="margin: 0px; padding: 0px; color: rgb(87, 107, 149); text-decoration-line: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">【英语】如何学英语，看看这位同学的总结</a>
+</p>
+<p style="margin-top: 0px; margin-bottom: 10px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em; color: rgb(51, 51, 51);">
+    <br/>
+</p>
+<p style="margin-top: 0px; margin-bottom: 10px; padding: 0px; clear: both; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; min-height: 1em; color: rgb(51, 51, 51);">
+    <img class="" data-ratio="0.015625" src="https://image.ipaiban.com/upload-ueditor-image-20180717-1531843096238046776.png" data-type="png" data-w="640" title="https://image.ipaiban.com/upload-ueditor-image-20180706-1530852410133037157.png" style="margin: 0px; padding: 0px; height: auto !important; width: auto !important; visibility: visible !important;"/>
+</p>
+<section label="Copyright Reserved by PLAYHUDONG." donone="shifuMouseDownCard(&#39;shifu_c_007&#39;)" style="margin: 1em auto; padding: 0px; font-family: &quot;Helvetica Neue&quot;, Helvetica, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, Arial, sans-serif; font-size: medium; white-space: normal; border-style: none;">
+    <section style="margin: 0px; padding: 16px; line-height: 2.4;">
+        <span class="color" style="margin: 0px 5px 0px 0px; padding: 0px; font-size: 3em; line-height: 1em; font-weight: bolder; vertical-align: middle; text-align: center;">“</span>认知决定你的人生格局，处事决定你的人生高度。提高认知，从认知的漏斗里爬出来，不做观天于井的青蛙，而是迎着命运，接受自我，于智慧的巅峰，看大千纷纭，观落英缤纷，美丽的世界，源自于美丽的人生，源自于豁达通明的认知，源自于不懈向上的娴静心境。<span class="color" style="margin: 0px 0px 0px 5px; padding: 0px; font-size: 3em; line-height: 1em; font-weight: bolder; vertical-align: middle; text-align: center;">”</span>
+    </section>
+    <section style="margin: 0px; padding: 5px; border-width: 1px; border-style: dashed; border-color: rgb(121, 121, 121);">
+        <section label="Copyright © 2016 playhudong All Rights Reserved." donone="shifuMouseDownPayStyle(&#39;shifu_sig_025&#39;)" style="margin: 0px auto; padding: 0px; border-width: initial; border-style: none; border-color: initial; width: 20em;">
+            <section style="margin: 0px; padding: 0px; width: 320px; text-align: center; font-size: 1em; line-height: 1.5em;">
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both;">
+                    想了解更多最新信息？
+                </p>
+            </section>
+            <section style="margin: 1em 0px; padding: 0px; width: 320px; text-align: center;">
+                <img class="lazy" data-copyright="0" data-cropselx1="0" data-cropselx2="160" data-cropsely1="0" data-cropsely2="160" data-ratio="1" src="https://image.ipaiban.com/upload-ueditor-image-20180717-1531843096403063706.jpg" data-type="jpeg" data-w="344" style="margin: 0px; padding: 0px; height: 160px; width: 160px; display: inline;"/>
+            </section>
+            <section class="ipaiban" style="margin: 0px; padding: 0px; width: 320px; border-top: 2px solid rgb(253, 208, 39); text-align: center;">
+                <section class="xhr" style="margin: 0px; padding: 0px; display: inline-block; background: rgb(253, 208, 39);">
+                    <section style="margin: 0px 0.5em 0px 0px; padding: 0px; width: 0px; height: 0px; float: left; display: inline-block; border-top: 1.6em solid transparent; border-left: 0.5em solid rgb(255, 255, 255);"></section>
+                    <section style="margin: 0px; padding: 0px; width: auto; font-size: 0.875em; line-height: 1em; color: rgb(255, 255, 255); display: inline-block;">
+                        <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both;">
+                            长按二维码 关注我们
+                        </p>
+                    </section>
+                    <section style="margin: 0px 0px 0px 0.5em; padding: 0px; width: 0px; height: 0px; float: right; display: inline-block; border-top: 1.6em solid transparent; border-right: 0.5em solid rgb(255, 255, 255);"></section>
+                </section>
+            </section>
+            <section style="margin: 1em 0px 0px; padding: 0px; width: 320px; text-align: center; font-size: 1em; line-height: 1.5em;">
+                <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both;">
+                    有问题请联系小编<br style="margin: 0px; padding: 0px;"/>微信ID：<br style="margin: 0px; padding: 0px;"/>hailuotoutiao
+                </p>
+            </section>
+        </section>
+    </section>
+    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); text-align: center;">
+        <span style="margin: 0px; padding: 0px; color: rgb(178, 178, 178); font-size: 12px;">✬如果你喜欢这篇文章，欢迎分享到朋友圈✬</span><br style="margin: 0px; padding: 0px;"/>
+    </p>
+    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; clear: both; min-height: 1em; color: rgb(51, 51, 51); text-align: center;">
+        <span style="margin: 0px; padding: 0px; font-size: 12px; color: rgb(178, 178, 178);">评论功能现已开启，我们接受一切形式的吐槽和赞美</span>
+    </p>
+</section>
